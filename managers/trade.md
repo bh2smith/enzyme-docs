@@ -34,7 +34,7 @@ A couple of important notes on farming & rewards in general;
 
 ## Borrow
 
-Use your funds as collateral for loans, with [Compound](https://compound.finance) and [Aave](https://aave.com). In this release we introduce borrowing, you can now deposit collateral, borrow and repay your loans from Compound Finance from the Borrow tab.
+Use your funds as collateral for loans, with [Compound](https://compound.finance) and [Aave](https://aave.com). In this release we introduce borrowing, you can now deposit collateral, borrow and repay your loans from the Borrow tab.
 
 #### **It takes 3 steps to borrow on Enzyme:**
 
