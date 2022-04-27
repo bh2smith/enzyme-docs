@@ -12,3 +12,7 @@ Note that the Enzyme app's user interface does not currently have the capability
 
 
 
+_**IMPORTANT**: Please note that whilst users are never forced into an upgrade, only the latest release of Enzyme will be actively maintained. If you want to access the latest features and bug fixes it is advised to upgrade to the latest version of the protocol as indicated by the Enzyme Council. Currently, this is v4._
+
+
+
