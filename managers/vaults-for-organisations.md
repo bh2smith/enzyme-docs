@@ -46,17 +46,17 @@ Once you’re set up with your Safe, click on Apps -> Wallet Connect.![Image for
 
 ![](https://miro.medium.com/max/60/0\*z95AhyUinRM09Fci?q=20)
 
-Now go to the [Enzyme App](http://app.enzyme.finance) and connect using Wallet Connect. You’ll see a QR code pop up which you need to copy to clipboard. Now go back to the Gnosis Safe page and paste the QR code into the wallet connect box highlighted in the image above.
+Now go to the [Enzyme App](http://app.enzyme.finance/) and connect using Wallet Connect. You’ll see a QR code pop up which you need to copy to clipboard. Now go back to the Gnosis Safe page and paste the QR code into the wallet connect box highlighted in the image above.
 
 You’re now connected to Enzyme with your multisig!
 
 ### **Step 2: Setting up with Enzyme.** <a href="#7fae" id="7fae"></a>
 
-If you go back to the [Enzyme app](http://app.enzyme.finance) now, you’ll see you are connected with your multisig wallet! You can now start plugging your organisation into Enzyme. Make sure you are on the “For Vault Managers” launchpad and click “Create”. If in doubt, you can refer to our [user docs](http://userdocs.enzyme.finance) here or [contact us](https://t.me/enzymefinance).
+If you go back to the [Enzyme app](http://app.enzyme.finance/) now, you’ll see you are connected with your multisig wallet! You can now start plugging your organisation into Enzyme. Make sure you are on the “For Vault Managers” launchpad and click “Create”. If in doubt, you can refer to our [user docs](http://userdocs.enzyme.finance/) here or [contact us](https://t.me/enzymefinance).
 
 ### **Step 3: Deploying your Enzyme vehicle** <a href="#bba8" id="bba8"></a>
 
-Once you’re done creating your organisation’s connection to Enzyme, you will get prompted to sign a transaction. Submit the transaction and then go back to the Gnosis Safe App. Make sure you are logged in with one of the **multisig** **Owner** addresses and connect with Wallet Connect. It should prompt you to sign a transaction. Now keep repeating this process with other **multisig Owners** until you’ve passed the signing threshold. At that point, your Enzyme vehicle should be deployed on-chain and visible on the Vault Manager launchpad. For more information on what you can do with Enzyme, this might be a good time to [refer our user docs](http://userdocs.enzyme.finance).
+Once you’re done creating your organisation’s connection to Enzyme, you will get prompted to sign a transaction. Submit the transaction and then go back to the Gnosis Safe App. Make sure you are logged in with one of the **multisig** **Owner** addresses and connect with Wallet Connect. It should prompt you to sign a transaction. Now keep repeating this process with other **multisig Owners** until you’ve passed the signing threshold. At that point, your Enzyme vehicle should be deployed on-chain and visible on the Vault Manager launchpad. For more information on what you can do with Enzyme, this might be a good time to [refer our user docs](http://userdocs.enzyme.finance/).
 
 ### **Step 4: Delegate trading** <a href="#6d43" id="6d43"></a>
 

@@ -2,7 +2,7 @@
 
 ![](../../.gitbook/assets/yeild.png)
 
-When interacting with protocols like [Compound](https://compound.finance), [AAVE](https://aave.com), [IDLE ](https://idle.finance/#/)strategies and [Yearn](https://yearn.finance), Enzyme users are often eligible to claim rewards. It's now possible to claim these rewards directly from the interface in the Rewards section. Go to the Rewards tab from the Vault Manager launchpad and this page will show you any rewards available that you may want to claim. For Strategies (like Idle), you can claim rewards from within the Yield tab.
+When interacting with protocols like [Compound](https://compound.finance/), [AAVE](https://aave.com/), [IDLE ](https://idle.finance/#/)strategies and [Yearn](https://yearn.finance/), Enzyme users are often eligible to claim rewards. It's now possible to claim these rewards directly from the interface in the Rewards section. Go to the Rewards tab from the Vault Manager launchpad and this page will show you any rewards available that you may want to claim. For Strategies (like Idle), you can claim rewards from within the Yield tab.
 
 When you try to claim rewards, the app will prompt you to add the token you're claiming to tracked assets that you must do before you claim. This will enable your Vault to recognise the asset, and include it in the Vault's NAV.
 
