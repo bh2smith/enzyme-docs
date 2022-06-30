@@ -10,11 +10,15 @@ You have no obligation to share any information about yourself if you don't want
 
 ## Assets
 
-![](../.gitbook/assets/settings\_assets.png)
+![](../.gitbook/assets/AssetMNGM.png)
 
 ### **Add Tracked Assets**
 
 Adding tracked assets is a way of telling the protocol to track assets that it doesn’t already know about. By default, new assets are automatically tracked when you trade. However, you may want to add tracked assets to your Vaults which are obtained through other methods such as an airdrop or yield farm. This drop-down allows you to do that.
+
+### Remove Tracked As
+
+If you have added an asset with a zero balance or a balance of less than 0.01 WETH and would like to remove it, you can do so here. However, you cannot remove the denomination asset.
 
 {% hint style="warning" %}
 It is important to note that if you are not tracking assets, they will not be reflected in the GAV which may create an arbitrage opportunity for some investors.&#x20;
@@ -22,13 +26,13 @@ It is important to note that if you are not tracking assets, they will not be re
 As a Vault Manager, it is your responsibility to manage these nuances.
 {% endhint %}
 
-### **Delegate Trading**
+### **Delegate Trading / Asset Managers**
 
 You may authorize additional addresses to trade on the vault’s behalf. Note that addresses permissioned in this way will have the authority to manage your positions. You can add these permissions and revoke them at a later date.
 
 ## Fees
 
-![](../.gitbook/assets/settings\_fees.png)
+![](../.gitbook/assets/fees\_1.png)
 
 ### Gas Relayer
 
@@ -46,11 +50,11 @@ By enabling the Auto Buyback Protocol Shares option your vault can take advantag
 
 You’ll need to have $MLN available in your vault to atomically buy back the full amount of protocol fee shares collected during deposits and shares redemption actions.
 
-## Deposit Policies
+## Policies
 
 This section enables a Vault Manager to choose which policies (if any) to impose on deposits. In order to add or change any of these policies, go to the settings of your vault and then select the policies tab. These rules are the same as discussed in the setup section here.
 
-![](../.gitbook/assets/deposit\_policies.png)
+![](../.gitbook/assets/policies.png)
 
 {% hint style="info" %}
 Investor rules that have already been configured can always be edited in the same tab of the Vault Manager Launchpad as per the above screenshot.
@@ -64,15 +68,19 @@ Setting shares as freely transferable enforces a permanent guarantee on shares t
 Once this setting is enabled, it cannot be disabled, and will persist through migrations and reconfigurations.
 {% endhint %}
 
-### **Allowed Deposit Recipients**
+### **Limit Wallets Permitted To Deposit**
 
 Limits new deposits to a list of addresses. Please note that once a list has been added, will only be able to add or remove new addresses to/from that list. You will not be able to delete the list.
 
-### Allowed Assets For Redemption
+### Limit External Positions To A Specified List
 
-This enables your depositors to redeem in a single asset. You can define the asset(s) that are allowed to be included in specific asset redemption.
+Restricts the protocols with which a vault can interact using Enzyme's external position contract architecture.
 
-### Single Asset Redemption Threshold
+### Restrict Assets For Redemption
+
+Restricts the assets for which a depositor may redeem their vault shares.
+
+### **Specific Asset Redemption Threshold**
 
 Defines the assets that are allowed to be included in specific asset redemption
 
@@ -80,19 +88,27 @@ Defines the assets that are allowed to be included in specific asset redemption
 
 You can set Minimum or Maximum deposit limits for your subscribers. Also in this section you can choose to reject all deposits If you chose to reject all deposits, please bear in mind that you will also not be able to deposit into the vault until you change this option back.
 
-### **External Position Removal**
+### **Restrict External Position Removal**
 
 Allows removing an external position from the vault’s activeExternalPositions only if its value can be considered negligible (i.e., dust). The dust threshold is maintained by the Council. This policy allows properly-signalled underlying assets of the external position without a valid price to be valued as 0.
 
-### **Asset Position Removal**
+### **Restrict Asset Position Removal**
 
 Allows removing an asset from the vault’s tracked assets only if a) it does not have a valid price or b) its value can be considered negligible (i.e., dust). The dust threshold is maintained by the Council.
+
+### **Restrict Wallets Permitted To Receive A Share Transfer**
+
+If enabled, restricts the potential recipients of shares transferred outside of the normal asset deposit and share minting process. **** This [policy](https://docs.enzyme.finance/managers/setup/share-transfers) acts in concert with but not as a replacement for the policy which restricts wallets able to receive minted shares.
 
 ## Reconfigure your Vault
 
 ![](../.gitbook/assets/reconfig.png)
 
-Reconfiguring your vault is very similar to a migration in that there is a time-lag of 7 days before it takes effect before the new configuration replaces the old one. This is to give stakeholders time to opt-out if they don’t agree to accept the terms of the new configuration.
+A vault reconfiguration is necessary if you want to modify one or more semi-permanent settings such as denomination asset, fees, lockup period, allowed integrations and external positions or slippage tolerance. Other settings can be edited under Settings > Policies > Edit. Keep in mind that you will incur gas fees in the process.
+
+**How to reconfigure?**
+
+Click on the button “Reconfigure Vault” to start the process. Keep in mind that due to security reasons there is a 7-day cooldown period, i.e. your new settings will be enforced after the cooldown period ends.
 
 ## Change Owner
 
@@ -102,6 +118,6 @@ There may be some use-cases where you’d want to change the vault owner (eg. mo
 
 ## Migrate your Vault
 
-![](../.gitbook/assets/migration.png)
+![](../.gitbook/assets/up\[grade.png)
 
 If you want to opt-in to a new release of Enzyme you can do so by migrating to the latest version. We will never force you to do this. However, we will not maintain old versions for longer than a fixed period which will be communicated through our official channels. From this drop-down, you will be able to accept and execute your vault migrations.

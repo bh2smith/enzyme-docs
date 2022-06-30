@@ -56,7 +56,7 @@ The Fees section lays out exactly how much you'll pay in fees to buy and own sha
 
 ### Policies
 
-![](.gitbook/assets/policies.png)
+![](<.gitbook/assets/policies (1).png>)
 
 On the Policies section, you will see if the vault has any policies such as **Allowed Investors, Investment Limits, Restricted Assets** and others.
 
