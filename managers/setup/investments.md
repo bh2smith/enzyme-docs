@@ -4,15 +4,15 @@ description: 'Setup: Step 3 (Deposits settings can be changed after creation)'
 
 # Deposits
 
-The configurations listed below are all **optional**. They limit who can deposit into your Vault, and how much they can deposit.&#x20;
+The configurations listed below are **optional** depending on the vault type you have previously selected. They limit who can deposit into your Vault, and how much they can deposit.&#x20;
 
-![](<../../.gitbook/assets/image (39).png>)
+![](../../.gitbook/assets/deposits.png)
 
 {% hint style="danger" %}
 Note that in the screenshot, all deposit configurations are toggled on for display purposes. If you do not plan to restrict investments using these configurations, make sure they are toggled off.
 {% endhint %}
 
-### **Wallets Permitted to Make Deposits**
+### **Limit Wallets Permitted To Deposit**
 
 Limits new deposits to a list of addresses. Please note that once a list has been added, will only be able to add or remove new addresses to/from that list. You will not be able to delete the list.&#x20;
 

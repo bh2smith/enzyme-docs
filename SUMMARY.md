@@ -17,7 +17,7 @@
   * [Deposits](managers/setup/investments.md)
   * [Share Transfers](managers/setup/share-transfers.md)
   * [Redemptions](managers/setup/redemptions.md)
-  * [Asset Management Policies](managers/setup/advanced-settings.md)
+  * [Asset Management](managers/setup/advanced-settings.md)
   * [Review](managers/setup/confirm-and-seed.md)
   * [Seed](managers/setup/seed.md)
 * [Customise Vault Settings](managers/customise-your-settings.md)

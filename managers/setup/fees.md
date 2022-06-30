@@ -36,7 +36,7 @@ The crystallisation period is a parameter which can be set by the Vault Manager 
 
 An additional entrance fee can be charged to subscribers by the Vault Manager. This can be defined as a percentage of the total investment and can be configured to be paid to the Vault itself or directly to the Vault Manager.
 
-## Exit Fee
+### Exit Fee
 
 In this release, we introduced the option to set up an exit fee, which is charged with every [redemption](redemptions.md). The fee can be set up to be routed to either the Vault or to the Vault Manager.
 
