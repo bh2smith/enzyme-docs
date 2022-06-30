@@ -6,3 +6,4 @@ Some example use-cases are;
 * **Vault strategy**: Use it to set up a vault which will run a DeFi strategy. Enzyme allows people to deposit into and subscribe to your strategy. Customise fees, set rules around deposits, redemptions and much more. Build any rules you like around deposits, assets being managed, fees and more.
 * **Indexes**: Build your own indexes and make the underlying vault shares shares transferable so that you can use them as collateral, build an AMM pool or do something else that we haven't thought of before!&#x20;
 
+You can check out this [page](https://app.enzyme.finance/discover/integrations) for a full list of the current and future integrations, and stay up to date with our growing [asset universe](https://app.enzyme.finance/discover/assets).

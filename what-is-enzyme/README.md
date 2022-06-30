@@ -14,8 +14,8 @@ The high customisability of Enzyme means you can use it to build pretty much any
 [use-cases.md](use-cases.md)
 {% endcontent-ref %}
 
-{% content-ref url="strategies-and-integrations.md" %}
-[strategies-and-integrations.md](strategies-and-integrations.md)
+{% content-ref url="strategies-networks-and-integrations.md" %}
+[strategies-networks-and-integrations.md](strategies-networks-and-integrations.md)
 {% endcontent-ref %}
 
 {% content-ref url="use-cases-1.md" %}

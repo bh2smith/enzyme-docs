@@ -4,7 +4,7 @@
 * [What is Enzyme?](what-is-enzyme/README.md)
   * [Use-Cases](what-is-enzyme/use-cases.md)
   * [User Types](what-is-enzyme/use-cases-1.md)
-  * [Strategies & Integrations](what-is-enzyme/strategies-and-integrations.md)
+  * [Strategies, Networks & Integrations](what-is-enzyme/strategies-networks-and-integrations.md)
   * [Background](what-is-enzyme/background.md)
   * [Security](what-is-enzyme/security.md)
 
