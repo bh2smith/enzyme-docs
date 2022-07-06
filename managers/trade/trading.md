@@ -1,4 +1,4 @@
-# Trading
+# Trade
 
 ![](../../.gitbook/assets/trade.png)
 

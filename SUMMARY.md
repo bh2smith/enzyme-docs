@@ -22,7 +22,7 @@
   * [Seed](managers/setup/seed.md)
 * [Customise Vault Settings](managers/customise-your-settings.md)
 * [Trade & Interact with DeFi](managers/trade/README.md)
-  * [Trade](managers/trade/trade.md)
+  * [Trade](managers/trade/trading.md)
   * [DeFi Protocols](managers/trade/defi-protocols/README.md)
     * [Aave](managers/trade/defi-protocols/aave.md)
     * [Compound](managers/trade/defi-protocols/compound.md)
