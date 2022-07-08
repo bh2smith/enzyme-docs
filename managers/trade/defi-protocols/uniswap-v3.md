@@ -1,6 +1,6 @@
 # Uniswap V3
 
-![](../../../.gitbook/assets/uniswapv3.png)
+![](../../../.gitbook/assets/uniswapv3.png) ![](<../../../.gitbook/assets/uniswapv3 (1).png>)
 
 [Uniswap V3](https://uniswap.org/) is flexible and efficient, allowing liquidity providers to allocate capital in a much more granular manner than its predecessor AMMs.
 
