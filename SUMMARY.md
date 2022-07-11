@@ -36,11 +36,12 @@
     * [Borrow, Rewards & Airdrops](managers/trade/defi-protocols/borrow-rewards-and-airdrops.md)
 * [Vault Menu](managers/accounting-reporting-fees.md)
 * [Signaling an Upgrade](managers/signal-an-upgrade.md)
-* [Vaults for DAOs & Organisations](managers/vaults-for-organisations/README.md)
+* [Vaults for DAOs & Organisations](managers/vaults-for-organisations.md)
   * [Gnosis Safe - Ethereum](managers/vaults-for-organisations/gnosis-safe-ethereum.md)
   * [Gnosis Safe - Polygon](managers/vaults-for-organisations/gnosis-safe-polygon.md)
   * [Delegate Trading](managers/vaults-for-organisations/delegate-trading.md)
 * [Account](managers/account.md)
+* [Protocol Fees](managers/protocol-fees.md)
 * [Risks and Nuances](managers/risks-and-nuances.md)
 
 ## DEPOSITING INTO SMART VAULTS <a href="#investors" id="investors"></a>
@@ -54,7 +55,6 @@
 * [Making an Investment](making-an-investment.md)
 * [Monitoring Your Vaults](monitoring-your-vaults.md)
 * [Redeeming](redeeming-your-investment.md)
-* [Protocol Fees](protocol-fees.md)
 * [Risks and Nuances](risks.md)
 
 ## Developers
