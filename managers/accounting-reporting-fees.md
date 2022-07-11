@@ -2,13 +2,23 @@
 
 ## Overview
 
+![](../.gitbook/assets/overview.png)
+
 Your Vault GAV updates in real-time on Enzyme. In other words, you can transparently track historic prices in a provable way. Your performance track record is extremely valuable if you want to scale and monetise.
 
 ## Portfolio
 
-Here you can check your positions, which are updated in real-time, including the handling of deposit subscriptions, redemptions, trading, lending, pools and derivatives.
+![](../.gitbook/assets/portfolio.png)
+
+Here you can check your positions, which are updated in real-time, including the handling of deposit subscriptions, redemptions, trading, lending, pools and derivatives.&#x20;
+
+{% hint style="info" %}
+Enzyme allows you to track up to 20 assets in your portfolio, this limit is due gas costs. You can always track or untrack new assets from Settings > Asset Managment > Tracked Assets.
+{% endhint %}
 
 ## Financials
+
+![](<../.gitbook/assets/financials (1).png>)
 
 Investment performance is not just about GAV though. Most investors care about other metrics too. The good news is that these are all calculated for you within the Enzyme ecosystem and provable from on-chain data. A sample of just a few of the metrics you can get from the financials section can be found in the image below.
 
@@ -36,7 +46,7 @@ Investment performance is not just about GAV though. Most investors care about o
 
 ## **Fees**
 
-![](../.gitbook/assets/overview\_settings.png)
+![](<../.gitbook/assets/fees (3).png>)
 
 We talked about fees in the [Set Up](setup/) section. Once you deploy your Vault to main-net, the protocol is continuously calculating and accruing any fees which are owed to the Vault Manager. Typically you'd need a team of expensive accountants or auditors to do this job but this feature is automated and embedded natively in Enzyme's contract logic.
 
@@ -46,17 +56,19 @@ Here you will also have an overview of the total Gas, the total Expense Ratio, a
 
 ## **Policies**
 
-![](../.gitbook/assets/overview\_policies.png)
+![](<../.gitbook/assets/policies (1).png>)
 
 Here you see a list of the active policies in your vault.
 
 ## **Depositors**
 
-![](../.gitbook/assets/overview\_depositors.png)
+![](<../.gitbook/assets/depositors (1).png>)
 
 Here you see a list of all the depositors in your vault.
 
 ## Activity
+
+![](../.gitbook/assets/activity.png)
 
 The activity tab will help you and your depositors review your past actions, whether they involve trade history, claiming or paying fees, changes on your vault settings, new redeemed or minted shares or management of adapters & external positions.
 

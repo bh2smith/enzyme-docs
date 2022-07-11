@@ -16,7 +16,7 @@ The drop-down menu in the top right corner of the chart allows you to show the p
 
 ### Portfolio
 
-![](.gitbook/assets/portfolio.png)
+![](<.gitbook/assets/portfolio (1).png>)
 
 On the portfolio tab, you'll find the vault's current positions.
 
@@ -56,7 +56,7 @@ The Fees section lays out exactly how much you'll pay in fees to buy and own sha
 
 ### Policies
 
-![](<.gitbook/assets/policies (1).png>)
+![](<.gitbook/assets/policies (1) (1).png>)
 
 On the Policies section, you will see if the vault has any policies such as **Allowed Investors, Investment Limits, Restricted Assets** and others.
 
@@ -68,6 +68,6 @@ Here you will see a list of all vault’s depositors.
 
 ### Activity
 
-![](.gitbook/assets/activity.png)
+![](<.gitbook/assets/activity (1).png>)
 
 Here you can see the activity from the Vault, deposits, withdrawals, trades, and paid out fees.
