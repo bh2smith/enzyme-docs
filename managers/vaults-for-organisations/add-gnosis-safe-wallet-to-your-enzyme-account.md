@@ -1,4 +1,4 @@
-# Add Gnosis Safe Wallet to your Enzyme Account
+# Add Gnosis Safe Wallet To Your Enzyme Account
 
 1. **Sign up/ Sign in** to your Enzyme account.&#x20;
 2. **Connect your gnosis safe wallet**, if you don't know how to do that you can check it in [here](https://docs.enzyme.finance/managers/vaults-for-organisations).&#x20;
