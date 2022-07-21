@@ -39,6 +39,7 @@
 * [Vaults for DAOs & Organisations](managers/vaults-for-organisations.md)
   * [Gnosis Safe - Ethereum](managers/vaults-for-organisations/gnosis-safe-ethereum.md)
   * [Gnosis Safe - Polygon](managers/vaults-for-organisations/gnosis-safe-polygon.md)
+  * [Add Gnosis Safe Wallet to your Enzyme Account](managers/vaults-for-organisations/add-gnosis-safe-wallet-to-your-enzyme-account.md)
   * [Delegate Trading](managers/vaults-for-organisations/delegate-trading.md)
 * [Account](managers/account.md)
 * [Protocol Fees](managers/protocol-fees.md)
