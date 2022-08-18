@@ -13,3 +13,10 @@ Let's look at an example. Say you own 1% of the shares outstanding in an Enzyme 
 In either case, to redeem shares, login to your wallet connection provider and click into the Vault's info page. In the top right corner of that page, click the `Redeem` button. This will launch a modal showing your current balance and an input field for you to choose an amount to redeem.
 
 Once you've chosen an amount of shares to redeem, click `Continue`. On the transaction modal that pops up next, confirm the information on the transaction and then click on `Submit`. This will bring up your wallet connection provider asking you to confirm the transaction. Once that's been done, the transaction will be mined and the appropriate token balances will be sent to your wallet.
+
+{% hint style="danger" %}
+If redeeming from a vault that holds external positions, note that redemption in kind can lead to a loss of funds. This option should be disabled on our user interface. If you are unable to redeem from a vault holding external positions, please contact us to discuss other possibilities.
+{% endhint %}
+
+
+

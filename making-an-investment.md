@@ -27,4 +27,10 @@ Ownership in Enzyme Vault's is represented by an ERC-20 token that enables you t
 Investment in an Enzyme Vault **only** occurs through this two step process. Do not, under any circumstances, send assets directly to the fund contracts. **** While they will appear in the fund, you will not have a claim on them to redeem.
 {% endhint %}
 
+{% hint style="danger" %}
+We strongly warn against investing into an Enzyme vault which is allowed to invest in external positions unless you know and trust the manager. This can potentially lead to locked up or lost funds. We recommend you check the policies section on a vault regularly to ensure that no external positions are allowed. We will be introducing automated notifications to alert users of such changes in the near future.
+
+![](<.gitbook/assets/No external positions allowed..png>)
+{% endhint %}
+
 ****
