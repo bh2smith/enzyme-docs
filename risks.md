@@ -1,13 +1,5 @@
 # Risks and Nuances
 
-## 24/7 Redemption: Caveats
-
-Generally speaking, you are always in control of the shares you buy in Enzyme products and can redeem them at any time. Occasionally however, some edge cases arise because of the way that some DeFi protocols work. For example, Synthetix typically uses a delayed settlement time of 180 seconds. Further complicating matters, this settlement time is an adjustable parameter by Synthetix governance. In this release, we have introduced the concept of external positions, which is another tool for managers to diversify their strategies. However, in this scenario and the scenario previously described, if a subscriber tries to redeem shares from an Enzyme product that's just made a trade on Synthetix but before that trade has settled, or has an External Position, they will not be able to.
-
-If guaranteed 24/7 redeemability is a condition required for you to invest into a product, you should check the product configurations on the product's page to make sure that Synthetix is on the **adapter blacklist** (ie. Portfolio Manager can never trade on Synthetix) **and that the vault is not allowed to open External Positions**. It is important to check that this condition still holds at the time when any upgrade is signaled by a Portfolio Manager.
-
-In an extreme edge case, a Portfolio Manager might be trading Synthetix heavily in which case you will might not have the chance to redeem as often as they would like. If this concerns you, you should look to invest in products which have a Guaranteed Redemption policy. More information can be found on this policy in the Redemptions section. Note that it is your responsibility to check this policy still holds during an upgrade period.
-
 ## Migrations
 
 Enzyme is constantly adding new features and integrations with external decentralised finance protocols. Occasionally, these features will require a new release of the core Enzyme contracts. Investors should be aware that at every new Enzyme release, Portfolio Managers can opt in to upgrade their product from the previous version to the new version. This process gives Portfolio Managers an opportunity to change their original product configurations (eg. fees, rule-sets, etc). Once the product configurations are updated and the Portfolio Manager has signaled their intent to migrate to the new Enzyme version, the Portfolio Manager is restricted from accessing the upgrade for 7 days. This time period gives investors an opportunity to opt out of the product by redeeming their shares.
