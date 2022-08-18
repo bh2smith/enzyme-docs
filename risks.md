@@ -40,7 +40,6 @@ Make sure you are using a Vault manager who understands the nuances of farming. 
 
 A vault that uses external positions requires substantially more trust in that vault's manager than other adapters. This is because redemptions might not always be possible if the Vault’s assets are tied up in external positions.
 
-As of the Sulu release, external positions enable managers to post collateral and borrow assets from Compound and provide liquidity to Uniswap V3.&#x20;
-
 If you are depositing into a vault which is able to hold external positions, make sure that you take the necessary steps to know who the vault manager is and establish trust between you.
 
+It is possible for a manager to upgrade a vault to allow for external positions. This would entail a seven day cool-off period before the new changes take effect. We recommend you check the settings regularly to ensure this is not possible. We will be introducing automated notifications to alert users of such changes in the near future.

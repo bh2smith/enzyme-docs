@@ -34,9 +34,15 @@ A few things to note if farming is part of your Vault strategy.
 
 ## External Positions
 
-Using external positions requires substantially more trust by your depositors than other adapters. This is because redemptions might not always be possible if the Vault’s assets are tied up in external positions.
 
-If you are depositing into a vault which is able to hold external managers, make sure that you take the necessary steps to know who the vault manager is and establish trust between you.
+
+{% hint style="danger" %}
+It is important to note that a vault which is able to interact with external positions requires a much higher degree of trust.&#x20;
+
+It is possible some or all of the funds  get temporarily or permanently locked into the vault.
+
+We strongly recommend that public vaults with unknown managers do not interact with external positions. This is the recommended option in the template we provide.
+{% endhint %}
 
 ## Pricing Risk
 
