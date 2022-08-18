@@ -61,3 +61,7 @@
 ## Developers
 
 * [Subgraphs](developers/subgraphs.md)
+
+## Avantgarde Features
+
+* [Whitelabel App](avantgarde-features/whitelabel-app.md)
