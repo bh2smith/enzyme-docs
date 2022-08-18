@@ -1,6 +1,6 @@
 # Strategies, Networks & Integrations
 
-A vault on Enzyme can help you easily interact with some or all of the following activities to build  investment strategies.&#x20;
+A vault on Enzyme can help you easily interact with some or all of the following activities to build investment strategies.&#x20;
 
 * Yield farming&#x20;
 * Staking
@@ -30,6 +30,7 @@ A list of the integrations that we support today:
 * Kyber Network (Trading)
 * Paraswap (Trading)
 * 0x project (Trading)
+* Goldfinch (FIDU Custom Price Feed)
 
 
 
