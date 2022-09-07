@@ -34,8 +34,6 @@ A few things to note if farming is part of your Vault strategy.
 
 ## External Positions
 
-
-
 {% hint style="danger" %}
 It is important to note that a vault which is able to interact with external positions requires a much higher degree of trust.&#x20;
 
@@ -67,3 +65,38 @@ For example, Curve stablecoin pools rely on the assumption that all assets in th
 ### Example: Assets that rely on external protocol security
 
 For example, the [YearnVaultV2PriceFeed](broken-reference) that is used for pricing yVault tokens relies on its yVault contract correctly reporting its value in a way that cannot be manipulated by price oracle manipulation attacks.
+
+## Slippage
+
+Slippage in DeFi is the difference between the expected amount of a transaction and the actual amount at which the transaction is executed. There are two types of slippage:
+
+1. Type 1 refers to the value loss incurred in a trade when there is a discrepancy between the DEX price (e.g. Uniswap) and the current asset prices that Enzyme sources from Chainlink. This may happen especially in case of a large-volume trade.
+2. Type 2 slippage attributes the value loss to the changing price of a trade between the time when a transaction is sent and the time it is mined. This can happen if there are other trades happening on a given DEX at the same time.
+
+By default the Enzyme app is configured to allow a slippage threshold of up to a 3% but this parameter can be customised before submitting the transaction. In order to modify the threshold, you must click on Advanced Options > Maximum slippage and enter the desired % of slippage. Be aware that manually reducing the slippage tolerance below the default threshold may result in failed transactions.
+
+Also, trading slippage % may differ across decentralised exchanges depending on the relative levels of liquidity for the required token swap. By default the Enzyme app shows you the best trading price among the several options available. This is the power of aggregation of the Enzyme protocol. You can always see “Best price” on top of the list, as illustrated in the screenshot below.
+
+<figure><img src="../.gitbook/assets/Screenshot 2022-08-29 at 13.08.12.png" alt=""><figcaption></figcaption></figure>
+
+Bear in mind that this Maximum Slippage will only cover Type 1 slippage, as defined above. However, The Cumulative Slippage Tolerance Policy will cover both Type 1 and Type 2 as it will account for cumulative slippage value over time, and will also let the accumulated slippage value diminish over time.
+
+<figure><img src="../.gitbook/assets/slippage.png" alt=""><figcaption></figcaption></figure>
+
+Slippage occurs mostly when you are swapping tokens, so here you can find a list o the Enzyme DeFi integrations where slippage is relevant:
+
+**DEX protocols where you can incur in slippage:**
+
+* Curve Trading
+* Paraswap Trading
+* Uniswap V2 & V3 Trading
+
+**DeFi Integrations with no slippage:**
+
+* Aave&#x20;
+* Compound&#x20;
+* Convex&#x20;
+* Staking&#x20;
+* Idle&#x20;
+* PoolTogether
+
