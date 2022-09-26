@@ -72,3 +72,4 @@
 ## Enhanced Features
 
 * [Whitelabel App](enhanced-features/whitelabel-app.md)
+* [Fee Splitter](enhanced-features/fee-splitter.md)
