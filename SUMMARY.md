@@ -40,6 +40,7 @@
     * [Uniswap V2](managers/trade/defi-protocols/uniswap-v2.md)
     * [Uniswap V3](managers/trade/defi-protocols/uniswap-v3.md)
     * [Yearn](managers/trade/defi-protocols/yearn.md)
+    * [Liquity](managers/trade/defi-protocols/liquity.md)
     * [Borrow, Rewards & Airdrops](managers/trade/defi-protocols/borrow-rewards-and-airdrops.md)
 * [Vault Menu](managers/accounting-reporting-fees.md)
 * [Signaling an Upgrade](managers/signal-an-upgrade.md)
