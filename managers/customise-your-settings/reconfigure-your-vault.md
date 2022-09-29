@@ -1,6 +1,6 @@
 # Reconfigure your Vault
 
-![](<../../.gitbook/assets/reconfig (1).png>)
+![](<../../.gitbook/assets/reconfig (1) (1).png>)
 
 A vault reconfiguration is necessary if you want to modify one or more semi-permanent settings such as denomination asset, fees, lockup period, allowed integrations and external positions or slippage tolerance. Other settings can be edited under Settings > Policies > Edit. Keep in mind that you will incur gas fees in the process.
 
