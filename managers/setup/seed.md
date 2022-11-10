@@ -29,7 +29,8 @@ Pre-requisites:&#x20;
 7. Add the newly-received assets to your Vault's `tracked assets` list. On your vault page within the Enzyme web app, go to "Settings" =>  “Assets” => "Add Tracked Assets" and add all the assets that you have transferred, except for the denomination asset (which is always tracked by default).
 8. Check that all the assets that you have transferred are correctly shown on the "Overview" page. Please note that it may take several minutes for the asset list to update with the correct amounts.
 9. Deposit any amount you like into your Vault (in the denomination asset of your vault). Depositing is a two-step process (approve, deposit). You can deposit using the wallet that you permissioned in step 2.
-10. Verify that you have received the shares for the Vault (displayed in the wallet as ENZF, or whatever you have chosen as a token symbol). If you have not received the shares of the Vault, then you might not have completed both steps above. You should now own all the shares of the Vault, and consequently all the assets in the fund. This concludes the fund seeding process.
-11. In order to allow investments by other investors adapt the investor whitelist.
+10. Verify that you have received the shares for the Vault (displayed in the wallet as ENZF, or whatever you have chosen as a token symbol). If you have not received the shares of the Vault, then you might not have completed both steps above. You should now own all the shares of the Vault, and consequently all the assets in the fund.&#x20;
+11. Since fees have been accrued triggered by the first deposit, to start up with a clean vault please make sure to claim all available fees the vault has accrued before proceeding.
+12. In order to allow investments by other investors you should add them to the `Limit Wallets Permitted To Deposit` Policy, and with this final step this concludes the fund seeding process.
 
 ![This is a slug example](<../../.gitbook/assets/slug\_2 (1).png>)
