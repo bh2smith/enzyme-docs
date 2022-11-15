@@ -40,6 +40,14 @@ The fee splitter is one of our enhanced features so if you are interested in usi
 
 In case you manage several vaults with identical configurations, bear in mind that the splitter contract **can be reused** for more than one vault.
 
+### How to claim fees
+
+Any beneficiary of the fee recipient needs to go to the fee section of the vault, and click on claim fees.&#x20;
+
+{% hint style="info" %}
+You need to be logged in with the address of the fee recipient.&#x20;
+{% endhint %}
+
 ### **How to update the Fee Splitter**
 
 The fee splitter contract **cannot be updated,** so if you want to change the percentages or add/remove addresses you will need to create a new contract and replace it in your vault settings.
