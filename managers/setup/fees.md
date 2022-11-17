@@ -35,7 +35,7 @@ More detailed information on performance fees can be found [here](https://app.gi
 \
 You can find below a visual representation of how and when fees are accrued.
 
-<figure><img src="../../.gitbook/assets/fees.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/feesExplained.png" alt=""><figcaption></figcaption></figure>
 
 ### Entrance Fee
 
