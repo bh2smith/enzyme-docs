@@ -2,7 +2,7 @@
 
 This section enables a Vault Manager to choose which policies (if any) to impose on deposits. In order to add or change any of these policies, go to the settings of your vault and then select the policies tab. These rules are the same as discussed in the setup section here.
 
-![](<../../.gitbook/assets/policies (2).png>)
+![](../../.gitbook/assets/policies.png)
 
 {% hint style="info" %}
 Investor rules that have already been configured can always be edited in the same tab of the Vault Manager Launchpad as per the above screenshot.
