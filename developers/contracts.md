@@ -1,6 +1,5 @@
 ---
 description: WIP
-layout: landing
 ---
 
 # Contracts
