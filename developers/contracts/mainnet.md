@@ -26,7 +26,6 @@
 | CompoundPriceFeed                            | [0x6254e0538abbb668eac89d5e5bee27a9d0e62bbe](https://etherscan.io/address/0x6254e0538abbb668eac89d5e5bee27a9d0e62bbe) |
 | ComptrollerLib                               | [0x03f7f3b8da875881206655d8099b9dacf721f1ef](https://etherscan.io/address/0x03f7f3b8da875881206655d8099b9dacf721f1ef) |
 | ConvexCurveLpStakingAdapter                  | [0xe8943f116c974c05f637920fff3dfe0463528d9a](https://etherscan.io/address/0xe8943f116c974c05f637920fff3dfe0463528d9a) |
-| ConvexCurveLpStakingAdapter                  | [0x4db2cc3a6040e8a826393f662b428ae830a68f7d](https://etherscan.io/address/0x4db2cc3a6040e8a826393f662b428ae830a68f7d) |
 | ConvexCurveLpStakingWrapperFactory           | [0x221283827ad1f136ceb296aee946b3923c0416fd](https://etherscan.io/address/0x221283827ad1f136ceb296aee946b3923c0416fd) |
 | ConvexCurveLpStakingWrapperPriceFeed         | [0xc5806c373749e8f5166405c89c86d9375bf5d041](https://etherscan.io/address/0xc5806c373749e8f5166405c89c86d9375bf5d041) |
 | ConvexVotingPositionLib                      | [0x12fa6805a1ff2d21318dcbcf677712bde8a033e1](https://etherscan.io/address/0x12fa6805a1ff2d21318dcbcf677712bde8a033e1) |
@@ -34,11 +33,7 @@
 | CumulativeSlippageTolerancePolicy            | [0x3a49d5aec385ac1bde99f305316b945c5ee71312](https://etherscan.io/address/0x3a49d5aec385ac1bde99f305316b945c5ee71312) |
 | CurveExchangeAdapter                         | [0xc9c14a99ccf467ea1ff2e19584a5faba3671b8de](https://etherscan.io/address/0xc9c14a99ccf467ea1ff2e19584a5faba3671b8de) |
 | CurveLiquidityAdapter                        | [0xea0a896dde31cfcb53a96ac767119b69d7b4f633](https://etherscan.io/address/0xea0a896dde31cfcb53a96ac767119b69d7b4f633) |
-| CurveLiquidityAdapter                        | [0xdfd3c9210b1dba7c94fecb65e23c944012ad365b](https://etherscan.io/address/0xdfd3c9210b1dba7c94fecb65e23c944012ad365b) |
 | CurvePriceFeed                               | [0x7e6130e497035a34a08e0f18b7a9b0fa06ed013e](https://etherscan.io/address/0x7e6130e497035a34a08e0f18b7a9b0fa06ed013e) |
-| CurvePriceFeed                               | [0x6ddbbcc38bea7d514f3112c5aa7d99b34b432ed8](https://etherscan.io/address/0x6ddbbcc38bea7d514f3112c5aa7d99b34b432ed8) |
-| DepositWrapper                               | [0xac23cc97cff28ec63f4c730386abd7d85f52fece](https://etherscan.io/address/0xac23cc97cff28ec63f4c730386abd7d85f52fece) |
-| DepositWrapper                               | [0x4ffd9cb46f129326efce0bd30064740bb79df6db](https://etherscan.io/address/0x4ffd9cb46f129326efce0bd30064740bb79df6db) |
 | DepositWrapper                               | [0x59ea865ebb903ebc3e345efbbd4206dbd20d9c3f](https://etherscan.io/address/0x59ea865ebb903ebc3e345efbbd4206dbd20d9c3f) |
 | Dispatcher                                   | [0xc3dc853dd716bd5754f421ef94fdcbac3902ab32](https://etherscan.io/address/0xc3dc853dd716bd5754f421ef94fdcbac3902ab32) |
 | EntranceRateBurnFee                          | [0xcdec5bbecc6d2c004d5378a63a3c484c2643ed9d](https://etherscan.io/address/0xcdec5bbecc6d2c004d5378a63a3c484c2643ed9d) |
@@ -73,7 +68,6 @@
 | ParaSwapV5Adapter                            | [0xe07a03acbde1fa73fa75ec6b294f17d892514328](https://etherscan.io/address/0xe07a03acbde1fa73fa75ec6b294f17d892514328) |
 | PerformanceFee                               | [0xfedc73464dfd156d30f6524654a5d56e766da0c3](https://etherscan.io/address/0xfedc73464dfd156d30f6524654a5d56e766da0c3) |
 | PolicyManager                                | [0xadf5a8db090627b153ef0c5726ccfdc1c7aed7bd](https://etherscan.io/address/0xadf5a8db090627b153ef0c5726ccfdc1c7aed7bd) |
-| ProtocolFeeReserveLib                        | [0xa0ed89af63367ddc8e1dd6b992f20d1214ccb51c](https://etherscan.io/address/0xa0ed89af63367ddc8e1dd6b992f20d1214ccb51c) |
 | ProtocolFeeReserveLib                        | [0xd4623987fa4fbf039fcb752014b62114d0b9fea9](https://etherscan.io/address/0xd4623987fa4fbf039fcb752014b62114d0b9fea9) |
 | ProtocolFeeReserveProxy                      | [0xb7460593bd222e24a2bf4393aa6416bd373995e0](https://etherscan.io/address/0xb7460593bd222e24a2bf4393aa6416bd373995e0) |
 | ProtocolFeeTracker                           | [0xe97980f1d43c4cd4f1eef0277a2dea7ddbc2cd13](https://etherscan.io/address/0xe97980f1d43c4cd4f1eef0277a2dea7ddbc2cd13) |

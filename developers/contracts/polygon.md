@@ -25,7 +25,6 @@
 | CurveExchangeAdapter                         | [0x7edcca545c784afa09c9decd5fff23057506da4b](https://polygonscan.com/address/0x7edcca545c784afa09c9decd5fff23057506da4b) |
 | CurveLiquidityAdapter                        | [0x40524c19050bc5cbdf55375b27e3d6ebc5ce9c65](https://polygonscan.com/address/0x40524c19050bc5cbdf55375b27e3d6ebc5ce9c65) |
 | CurvePriceFeed                               | [0xc537439f4397a0f625cb323f90bf87397da92fcf](https://polygonscan.com/address/0xc537439f4397a0f625cb323f90bf87397da92fcf) |
-| DepositWrapper                               | [0x30c4394916816ac289a61700fbc1211d6efcbafa](https://polygonscan.com/address/0x30c4394916816ac289a61700fbc1211d6efcbafa) |
 | DepositWrapper                               | [0x5100ef340bc3a27113e96b9571e784e89fc49114](https://polygonscan.com/address/0x5100ef340bc3a27113e96b9571e784e89fc49114) |
 | Dispatcher                                   | [0x2e25271297537b8124b8f883a92ffd95c4032733](https://polygonscan.com/address/0x2e25271297537b8124b8f883a92ffd95c4032733) |
 | EntranceRateBurnFee                          | [0x01460ba35cb6f847d65c5eee124e7e9e10055f16](https://polygonscan.com/address/0x01460ba35cb6f847d65c5eee124e7e9e10055f16) |
@@ -52,7 +51,6 @@
 | MinSharesSupplyFee                           | [0xeb45b91d582ae383e750a1626a97f854a9df19a3](https://polygonscan.com/address/0xeb45b91d582ae383e750a1626a97f854a9df19a3) |
 | OnlyRemoveDustExternalPositionPolicy         | [0xc0f49507c125a000e02ab58c22be9764e2abab99](https://polygonscan.com/address/0xc0f49507c125a000e02ab58c22be9764e2abab99) |
 | OnlyUntrackDustOrPricelessAssetsPolicy       | [0x9f856372f7bd844dac0254c7859b117259b5c9d2](https://polygonscan.com/address/0x9f856372f7bd844dac0254c7859b117259b5c9d2) |
-| ParaSwapV5Adapter                            | [0x2a5106122289d1891abb9b5e69c686680595d616](https://polygonscan.com/address/0x2a5106122289d1891abb9b5e69c686680595d616) |
 | ParaSwapV5Adapter                            | [0x5ef0dc91f1b109ef589b94447116eb58025e14d6](https://polygonscan.com/address/0x5ef0dc91f1b109ef589b94447116eb58025e14d6) |
 | PerformanceFee                               | [0xbc63afe28c66a6279bd3a55a4d0d3ab61f479bdf](https://polygonscan.com/address/0xbc63afe28c66a6279bd3a55a4d0d3ab61f479bdf) |
 | PolicyManager                                | [0x5a8ee0850d22ffef4169dbd348c1b0d7d5f5546f](https://polygonscan.com/address/0x5a8ee0850d22ffef4169dbd348c1b0d7d5f5546f) |
