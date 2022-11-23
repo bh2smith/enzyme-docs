@@ -26,7 +26,7 @@ If you have opened a Maple lending position, there may be restrictions on when a
 
 2\. On your Current Positions, click on the three dots of the pool you would like to add more capital, and select ‘Deposit’.
 
-<figure><img src="../../../.gitbook/assets/buttons (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/buttons (1).png" alt=""><figcaption></figcaption></figure>
 
 3\. Enter the amount you wish to deposit and click on ‘Deposit’.
 

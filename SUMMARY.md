@@ -70,7 +70,9 @@
 ## Developers
 
 * [Subgraphs](developers/subgraphs.md)
-* [Contracts](developers/contracts.md)
+* [Contracts](developers/contracts/README.md)
+  * [Mainnet](developers/contracts/mainnet.md)
+  * [Polygon](developers/contracts/polygon.md)
 
 ## Enhanced Features
 
