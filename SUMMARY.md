@@ -70,6 +70,7 @@
 ## Developers
 
 * [Subgraphs](developers/subgraphs.md)
+* [Contracts](developers/contracts.md)
 
 ## Enhanced Features
 
