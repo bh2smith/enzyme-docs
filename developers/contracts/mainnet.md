@@ -19,7 +19,6 @@
 | ArbitraryLoanPositionLib                     | [0x73cb96137cb5455e77275a6ab3411d0d52d545a9](https://etherscan.io/address/0x73cb96137cb5455e77275a6ab3411d0d52d545a9) |
 | ArbitraryLoanPositionParser                  | [0xe959c0eef487f7ee098ad10998d9dfcf4fa1d1af](https://etherscan.io/address/0xe959c0eef487f7ee098ad10998d9dfcf4fa1d1af) |
 | ArbitraryLoanTotalNominalDeltaOracleModule   | [0x7f2a48122bbd3ffba33ed9d1f5cfabede7caab34](https://etherscan.io/address/0x7f2a48122bbd3ffba33ed9d1f5cfabede7caab34) |
-| AssetValueCalculator                         | [0xfa3d84d841c55bb9175b0a6f215e2300c40cc5ab](https://etherscan.io/address/0xfa3d84d841c55bb9175b0a6f215e2300c40cc5ab) |
 | CompoundAdapter                              | [0x6ce8095a692aff6698c3aa8593be3976b6b8743d](https://etherscan.io/address/0x6ce8095a692aff6698c3aa8593be3976b6b8743d) |
 | CompoundDebtPositionLib                      | [0x4de35b4d6e9b9f20be622dc4925a209d3de2c338](https://etherscan.io/address/0x4de35b4d6e9b9f20be622dc4925a209d3de2c338) |
 | CompoundDebtPositionParser                   | [0x8219db34e03049364b8c0f167f10f3e9320a39cd](https://etherscan.io/address/0x8219db34e03049364b8c0f167f10f3e9320a39cd) |
@@ -44,7 +43,6 @@
 | ExternalPositionManager                      | [0x1e3da40f999cf47091f869ebac477d84b0827cf4](https://etherscan.io/address/0x1e3da40f999cf47091f869ebac477d84b0827cf4) |
 | FeeManager                                   | [0xaf0dffac1ce85c3fce4c2bf50073251f615eefc4](https://etherscan.io/address/0xaf0dffac1ce85c3fce4c2bf50073251f615eefc4) |
 | FiduPriceFeed                                | [0x478335491e1fb798c64a9e95ca43d3d967f42486](https://etherscan.io/address/0x478335491e1fb798c64a9e95ca43d3d967f42486) |
-| FundDataProviderRouter                       | [0x781ec8517a75172ea007d7458ea1811fc9f99c30](https://etherscan.io/address/0x781ec8517a75172ea007d7458ea1811fc9f99c30) |
 | FundDeployer                                 | [0x4f1c53f096533c04d8157efb6bca3eb22ddc6360](https://etherscan.io/address/0x4f1c53f096533c04d8157efb6bca3eb22ddc6360) |
 | FundValueCalculator                          | [0x490e64e0690b4aa481fb02255aed3d052bad7bf1](https://etherscan.io/address/0x490e64e0690b4aa481fb02255aed3d052bad7bf1) |
 | FundValueCalculatorRouter                    | [0x7c728cd0cfa92401e01a4849a01b57ee53f5b2b9](https://etherscan.io/address/0x7c728cd0cfa92401e01a4849a01b57ee53f5b2b9) |

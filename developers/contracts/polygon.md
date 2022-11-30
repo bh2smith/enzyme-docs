@@ -19,7 +19,6 @@
 | ArbitraryLoanPositionLib                     | [0x4c3da79534300b2a8d494ebfe7a0aee28367c2e7](https://polygonscan.com/address/0x4c3da79534300b2a8d494ebfe7a0aee28367c2e7) |
 | ArbitraryLoanPositionParser                  | [0xe8a5dadff7dbd09f3b2abbb09643ba67f1860131](https://polygonscan.com/address/0xe8a5dadff7dbd09f3b2abbb09643ba67f1860131) |
 | ArbitraryLoanTotalNominalDeltaOracleModule   | [0x9301b377f646b38e31681cc5c35f364385e4121d](https://polygonscan.com/address/0x9301b377f646b38e31681cc5c35f364385e4121d) |
-| AssetValueCalculator                         | [0xe9d4d87478dcb10da0032f9fac8d253e9dd27d86](https://polygonscan.com/address/0xe9d4d87478dcb10da0032f9fac8d253e9dd27d86) |
 | ComptrollerLib                               | [0xf5fc0e36c85552e44354132d188c33d9361eb441](https://polygonscan.com/address/0xf5fc0e36c85552e44354132d188c33d9361eb441) |
 | CumulativeSlippageTolerancePolicy            | [0x1332367c181f1157f751b160187dcaa219706bf2](https://polygonscan.com/address/0x1332367c181f1157f751b160187dcaa219706bf2) |
 | CurveExchangeAdapter                         | [0x7edcca545c784afa09c9decd5fff23057506da4b](https://polygonscan.com/address/0x7edcca545c784afa09c9decd5fff23057506da4b) |
@@ -34,7 +33,6 @@
 | ExternalPositionFactory                      | [0x067eeea753aba0ddecca0b80bbb8b7572bf6580d](https://polygonscan.com/address/0x067eeea753aba0ddecca0b80bbb8b7572bf6580d) |
 | ExternalPositionManager                      | [0x9513b3a49fc9ae8b76942c94fb6f660c41fd7f47](https://polygonscan.com/address/0x9513b3a49fc9ae8b76942c94fb6f660c41fd7f47) |
 | FeeManager                                   | [0xddd7432671f5adc1c82c7c875624c1b0bc461deb](https://polygonscan.com/address/0xddd7432671f5adc1c82c7c875624c1b0bc461deb) |
-| FundDataProviderRouter                       | [0xf03dc1f6e470919b5078d17e23e7107204dace6b](https://polygonscan.com/address/0xf03dc1f6e470919b5078d17e23e7107204dace6b) |
 | FundDeployer                                 | [0x188d356caf78bc6694aee5969fde99a9d612284f](https://polygonscan.com/address/0x188d356caf78bc6694aee5969fde99a9d612284f) |
 | FundValueCalculator                          | [0xcdf038dd3b66506d2e5378aee185b2f0084b7a33](https://polygonscan.com/address/0xcdf038dd3b66506d2e5378aee185b2f0084b7a33) |
 | FundValueCalculatorRouter                    | [0xd70389a7d6171e1dba6c3df4db7331811fd93f08](https://polygonscan.com/address/0xd70389a7d6171e1dba6c3df4db7331811fd93f08) |
