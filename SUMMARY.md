@@ -78,3 +78,10 @@
 
 * [Whitelabel App](enhanced-features/whitelabel-app.md)
 * [Fee Splitter](enhanced-features/fee-splitter.md)
+
+## Governance
+
+* [Governance Overview](governance/governance-overview.md)
+* [The Enzyme Council](governance/the-enzyme-council/README.md)
+  * [The Enzyme Technical Council (ETC)](governance/the-enzyme-council/the-enzyme-technical-council-etc.md)
+  * [The Enzyme User Representatives (EUR)](governance/the-enzyme-council/the-enzyme-user-representatives-eur.md)
