@@ -37,6 +37,7 @@
     * [Curve](managers/trade/defi-protocols/curve.md)
     * [Delegated Voting](managers/trade/defi-protocols/delegated-voting.md)
     * [Idle](managers/trade/defi-protocols/idle.md)
+    * [Kiln](managers/trade/defi-protocols/kiln.md)
     * [Maple Finance](managers/trade/defi-protocols/maple-finance.md)
     * [Uniswap V2](managers/trade/defi-protocols/uniswap-v2.md)
     * [Uniswap V3](managers/trade/defi-protocols/uniswap-v3.md)
