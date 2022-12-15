@@ -8,8 +8,6 @@ From the point a Vault Manager signals an upgrade, depositors have 7 days to rev
 
 During the upgrade, all fees are paid out to Vault Manager and HWM is reset to the initial GAV after the upgrade.
 
-Note that the Enzyme app's user interface does not currently have the capability to perform any of the actions above. This tooling will be built well in advance of any new protocol upgrades and explained here in detail when it is available.
-
 
 
 _**IMPORTANT**: Please note that whilst users are never forced into an upgrade, only the latest release of Enzyme will be actively maintained. If you want to access the latest features and bug fixes it is advised to upgrade to the latest version of the protocol as indicated by the Enzyme Council. Currently, this is v4._
