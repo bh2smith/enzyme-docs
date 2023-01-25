@@ -7,5 +7,5 @@ Do you want to start trading tokens? Simply click on the Token Swap tab and you'
 
 
 {% hint style="info" %}
-Enzyme implements a 50 bps swap fee on any Paraswap trade in the Polygon network.
+There is a 50 bps swap fee on any Paraswap trade in the Polygon network.
 {% endhint %}
