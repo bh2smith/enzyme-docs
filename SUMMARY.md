@@ -52,7 +52,7 @@
   * [Add Gnosis Safe Wallet To Your Enzyme Account](managers/vaults-for-organisations/add-gnosis-safe-wallet-to-your-enzyme-account.md)
   * [Delegate Trading](managers/vaults-for-organisations/delegate-trading.md)
 * [Account](managers/account.md)
-* [Protocol Fees](managers/protocol-fees.md)
+* [Protocol Access](managers/protocol-fees.md)
 * [Risks and Nuances](managers/risks-and-nuances.md)
 
 ## DEPOSITING INTO SMART VAULTS <a href="#investors" id="investors"></a>

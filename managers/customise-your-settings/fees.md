@@ -10,9 +10,13 @@ When disabling the gas relayer, the funds held by the gas relayer will return to
 
 ### Auto Buyback Protocol Shares
 
-This option enables you to claim your protocol fee discount in an automated fashion. See [#enzyme-protocol-fee](../../what-is-enzyme/background.md#enzyme-protocol-fee "mention")section for more details about how the fee is applied.
+This option enables you to claim your protocol fee discount in an automated fashion. See [#enzyme-protocol-fee](../../what-is-enzyme/background.md#enzyme-protocol-fee "mention") section for more details about how the fee is applied.
 
-To encourage vault managers to pay the protocol fee in MLN, shares are minted at 50 bps of AUM but can be bought back using $MLN at only 25 bps of AUM ie at a 50% discount.&#x20;
+Obtaining access to the protocol requires MLN vouchers to be submitted to the value of 25bps of your AUM usage. If MLN token is not used to access the protocol, a penalty is applied and a total of 50bps will be applied by inflating your vault shares.&#x20;
+
+{% hint style="info" %}
+Inflated vault shares and MLN collected are unlikely to offer any value to the MLN token given that inflation is likely to exceed the amount burnt for many years to come.
+{% endhint %}
 
 By enabling the Auto Buyback Protocol Shares option your vault can take advantage of paying the lower rate of 25 bps all in one transaction.&#x20;
 

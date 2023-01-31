@@ -8,7 +8,7 @@ Enzyme has [rebranded](https://medium.com/enzymefinance/from-melon-to-enzyme-b5b
 
 Enzyme’s token is [MLN](https://etherscan.io/token/0xec67005c4e498ec7f55e092bd1d35cbc47c91892) and has a dual use:
 
-1\) used to pay fees to the network by users, and&#x20;
+1\) enables access the MLN network.
 
 2\) used to incentivise developers to build on Enzyme.&#x20;
 

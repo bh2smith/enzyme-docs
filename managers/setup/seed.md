@@ -4,7 +4,7 @@
 
 Seed funding corresponds to the first official funding stage. The purpose of seeding a vault is essentially to get your vault up and running and ready for business.
 
-Let’s say you would like to start your vault with a perfectly balanced portfolio of 25% MLN, 25% WETH, 25% WBTC and 25% USDC and you already hold those assets. Without seeding, you would have to trade those positions into your denomination asset, deposit into the vault, then trade back into your desired allocations, spending gas on every transaction.
+Let’s say you would like to start your vault with a perfectly balanced portfolio of 25% ZRX, 25% WETH, 25% WBTC and 25% USDC and you already hold those assets. Without seeding, you would have to trade those positions into your denomination asset, deposit into the vault, then trade back into your desired allocations, spending gas on every transaction.
 
 Seeding the Vault with different assets can be more efficient than converting the assets into the denomination asset and back.
 
