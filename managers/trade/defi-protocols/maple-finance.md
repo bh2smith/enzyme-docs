@@ -18,7 +18,7 @@ If you have opened a Maple lending position, there may be restrictions on when a
 
 3\. Enter the amount you wish to deposit and click on ‘Deposit’.
 
-<figure><img src="../../../.gitbook/assets/deposit.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/deposit (1).png" alt=""><figcaption></figcaption></figure>
 
 ### How To Add More Capital Into A Pool?
 
