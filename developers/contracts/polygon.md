@@ -6,6 +6,10 @@
 | AaveDebtPositionLib                          | [0x83e3d456344f25f0a235de5d2f6c193c983e9d36](https://polygonscan.com/address/0x83e3d456344f25f0a235de5d2f6c193c983e9d36) |
 | AaveDebtPositionParser                       | [0x7913a5a5424d3593f82e5eeb78008a3b8c719afe](https://polygonscan.com/address/0x7913a5a5424d3593f82e5eeb78008a3b8c719afe) |
 | AavePriceFeed                                | [0x3116cab784d30a07ff1bb370222290160a9eba1f](https://polygonscan.com/address/0x3116cab784d30a07ff1bb370222290160a9eba1f) |
+| AaveV2Adapter                                | [0x1ff30682801251751c1f69355014112d29a0494d](https://polygonscan.com/address/0x1ff30682801251751c1f69355014112d29a0494d) |
+| AaveV2ATokenListOwner                        | [0x6d5b95aa342f77e4825496334195e9c1c7d3208b](https://polygonscan.com/address/0x6d5b95aa342f77e4825496334195e9c1c7d3208b) |
+| AaveV3Adapter                                | [0xb3b21dfa60b399ad00587b845aef7476a1659e9f](https://polygonscan.com/address/0xb3b21dfa60b399ad00587b845aef7476a1659e9f) |
+| AaveV3ATokenListOwner                        | [0xeffb0467247b01e944203246694afb64d4af69ce](https://polygonscan.com/address/0xeffb0467247b01e944203246694afb64d4af69ce) |
 | AddressListRegistry                          | [0x5ae15bf655a8f42b9c7d93e64f4476ec1da248f8](https://polygonscan.com/address/0x5ae15bf655a8f42b9c7d93e64f4476ec1da248f8) |
 | AllowedAdapterIncomingAssetsPolicy           | [0xc192fd3b13549ad5bc3c0a0118a29556d0cdd482](https://polygonscan.com/address/0xc192fd3b13549ad5bc3c0a0118a29556d0cdd482) |
 | AllowedAdaptersPerManagerPolicy              | [0x30ed4e3cf5e1faf6fc9776d256d535f3470bb710](https://polygonscan.com/address/0x30ed4e3cf5e1faf6fc9776d256d535f3470bb710) |
@@ -19,6 +23,10 @@
 | ArbitraryLoanPositionLib                     | [0x4c3da79534300b2a8d494ebfe7a0aee28367c2e7](https://polygonscan.com/address/0x4c3da79534300b2a8d494ebfe7a0aee28367c2e7) |
 | ArbitraryLoanPositionParser                  | [0xe8a5dadff7dbd09f3b2abbb09643ba67f1860131](https://polygonscan.com/address/0xe8a5dadff7dbd09f3b2abbb09643ba67f1860131) |
 | ArbitraryLoanTotalNominalDeltaOracleModule   | [0x9301b377f646b38e31681cc5c35f364385e4121d](https://polygonscan.com/address/0x9301b377f646b38e31681cc5c35f364385e4121d) |
+| BalancerV2GaugeTokenPriceFeed                | [0xbd19713e7fe01d3958afbb4fb5b3802a0d53605c](https://polygonscan.com/address/0xbd19713e7fe01d3958afbb4fb5b3802a0d53605c) |
+| BalancerV2LiquidityAdapter                   | [0x98302d9486599332890710eddd29b3e317d36104](https://polygonscan.com/address/0x98302d9486599332890710eddd29b3e317d36104) |
+| BalancerV2StablePoolPriceFeed                | [0xf952787740326df1ecde980969782916f9583719](https://polygonscan.com/address/0xf952787740326df1ecde980969782916f9583719) |
+| BalancerV2WeightedPoolPriceFeed              | [0x30ee2560675f8a523cd07b109fcb472a54b08314](https://polygonscan.com/address/0x30ee2560675f8a523cd07b109fcb472a54b08314) |
 | ComptrollerLib                               | [0xf5fc0e36c85552e44354132d188c33d9361eb441](https://polygonscan.com/address/0xf5fc0e36c85552e44354132d188c33d9361eb441) |
 | CumulativeSlippageTolerancePolicy            | [0x1332367c181f1157f751b160187dcaa219706bf2](https://polygonscan.com/address/0x1332367c181f1157f751b160187dcaa219706bf2) |
 | CurveExchangeAdapter                         | [0x7edcca545c784afa09c9decd5fff23057506da4b](https://polygonscan.com/address/0x7edcca545c784afa09c9decd5fff23057506da4b) |
