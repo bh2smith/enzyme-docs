@@ -42,6 +42,8 @@ In case you manage several vaults with identical configurations, bear in mind th
 
 ### How to claim fees
 
+<figure><img src="../.gitbook/assets/fee_splitter.png" alt=""><figcaption></figcaption></figure>
+
 Any beneficiary of the fee recipient needs to go to the fee section of the vault, and click on claim fees.&#x20;
 
 {% hint style="info" %}
