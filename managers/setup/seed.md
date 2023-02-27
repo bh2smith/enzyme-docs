@@ -33,4 +33,4 @@ Pre-requisites:&#x20;
 11. Since fees have been accrued triggered by the first deposit, to start up with a clean vault please make sure to claim all available fees the vault has accrued before proceeding.
 12. In order to allow investments by other investors you should add them to the `Limit Wallets Permitted To Deposit` Policy, and with this final step this concludes the fund seeding process.
 
-![This is a slug example](../../.gitbook/assets/slug\_2.png)
+![This is a slug example](<../../.gitbook/assets/slug\_2 (1).png>)

@@ -39,7 +39,7 @@ First, you need to go to ‘My Account’, scroll down the page and select the �
 
 You will see a button labelled, ‘**Create Page**’. Click on this and it will enable you to name the page, insert a custom subdomain and choose the vault you want this page to be allocated to. If you have more than one vault, all of these vaults will be visible in the ‘**Choose Vaults**’ dropdown menu, so be sure to select the correct vault that you would like to whitelabel.
 
-![](<../.gitbook/assets/image (1).png>)
+![](<../.gitbook/assets/image (2).png>)
 
 Once you have populated the form with the page name, subdomain and chosen vault, select ‘Create Page’. This will take you back to your account page where you are now able to edit your chosen vault via the ‘My Pages’ box.
 

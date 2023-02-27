@@ -22,7 +22,7 @@ The fee splitter is one of our enhanced features so if you are interested in usi
 
 3\. Add all recipient wallets, specifying the % distribution for each wallet. Note that the total sum must always be 100%. You can split fees up to a maximum of **10 different wallets**.
 
-<figure><img src="../.gitbook/assets/1.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/1 (1).png" alt=""><figcaption></figcaption></figure>
 
 4\. Once you execute the transaction, the splitter will provide you with a contract address.
 
