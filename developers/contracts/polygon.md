@@ -1,8 +1,7 @@
 # Polygon
 
-| Name                                         | Address                                                                                                                  |
-| -------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------ |
 | AaveAdapter                                  | [0x2fada67abe30a700026a4f5f6a6cf80c978a90cf](https://polygonscan.com/address/0x2fada67abe30a700026a4f5f6a6cf80c978a90cf) |
+| -------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------ |
 | AaveDebtPositionLib                          | [0x83e3d456344f25f0a235de5d2f6c193c983e9d36](https://polygonscan.com/address/0x83e3d456344f25f0a235de5d2f6c193c983e9d36) |
 | AaveDebtPositionParser                       | [0x7913a5a5424d3593f82e5eeb78008a3b8c719afe](https://polygonscan.com/address/0x7913a5a5424d3593f82e5eeb78008a3b8c719afe) |
 | AavePriceFeed                                | [0x3116cab784d30a07ff1bb370222290160a9eba1f](https://polygonscan.com/address/0x3116cab784d30a07ff1bb370222290160a9eba1f) |
@@ -24,7 +23,7 @@
 | ArbitraryLoanPositionParser                  | [0xe8a5dadff7dbd09f3b2abbb09643ba67f1860131](https://polygonscan.com/address/0xe8a5dadff7dbd09f3b2abbb09643ba67f1860131) |
 | ArbitraryLoanTotalNominalDeltaOracleModule   | [0x9301b377f646b38e31681cc5c35f364385e4121d](https://polygonscan.com/address/0x9301b377f646b38e31681cc5c35f364385e4121d) |
 | BalancerV2GaugeTokenPriceFeed                | [0xbd19713e7fe01d3958afbb4fb5b3802a0d53605c](https://polygonscan.com/address/0xbd19713e7fe01d3958afbb4fb5b3802a0d53605c) |
-| BalancerV2LiquidityAdapter                   | [0x98302d9486599332890710eddd29b3e317d36104](https://polygonscan.com/address/0x98302d9486599332890710eddd29b3e317d36104) |
+| BalancerV2LiquidityAdapter                   | [0xAa7F7b3DaaaBdeaf828f4C489379160B034d125B](https://polygonscan.com/address/0xAa7F7b3DaaaBdeaf828f4C489379160B034d125B) |
 | BalancerV2StablePoolPriceFeed                | [0xf952787740326df1ecde980969782916f9583719](https://polygonscan.com/address/0xf952787740326df1ecde980969782916f9583719) |
 | BalancerV2WeightedPoolPriceFeed              | [0x30ee2560675f8a523cd07b109fcb472a54b08314](https://polygonscan.com/address/0x30ee2560675f8a523cd07b109fcb472a54b08314) |
 | ComptrollerLib                               | [0xf5fc0e36c85552e44354132d188c33d9361eb441](https://polygonscan.com/address/0xf5fc0e36c85552e44354132d188c33d9361eb441) |
@@ -46,7 +45,9 @@
 | FundValueCalculatorRouter                    | [0xd70389a7d6171e1dba6c3df4db7331811fd93f08](https://polygonscan.com/address/0xd70389a7d6171e1dba6c3df4db7331811fd93f08) |
 | GasRelayPaymasterFactory                     | [0xed05786ef7b5e5bf909512f0ad46eb8f22cdc4ca](https://polygonscan.com/address/0xed05786ef7b5e5bf909512f0ad46eb8f22cdc4ca) |
 | GasRelayPaymasterLib                         | [0x9feea9ec855096e702a146ee39797927103dc7a0](https://polygonscan.com/address/0x9feea9ec855096e702a146ee39797927103dc7a0) |
-| GlobalConfigLib                              | [0xce699a3153281453668127288e1e673a13948dd1](https://polygonscan.com/address/0xce699a3153281453668127288e1e673a13948dd1) |
+| GatedRedemptionQueueSharesWrapperFactory     | [0x1aD5e5acc060FaFDe8a0E37aA382c250D64b62e3](https://polygonscan.com/address/0x1aD5e5acc060FaFDe8a0E37aA382c250D64b62e3) |
+| GatedRedemptionQueueSharesWrapperLib         | [0x334Ed809d962078b82f093aEdc2D520D2E394b7d](https://polygonscan.com/address/0x334Ed809d962078b82f093aEdc2D520D2E394b7d) |
+| GlobalConfigLib                              | [0xcbbD50255Cf49797BaDB28cE625a4ea217C67A64](https://polygonscan.com/address/0xcbbD50255Cf49797BaDB28cE625a4ea217C67A64) |
 | GlobalConfigProxy                            | [0x905448cb27f51d9a663fb18d57d76c49d19be837](https://polygonscan.com/address/0x905448cb27f51d9a663fb18d57d76c49d19be837) |
 | IdleAdapter                                  | [0x5d2135fa26a6202f2d39fdba61bcf53bb04b8434](https://polygonscan.com/address/0x5d2135fa26a6202f2d39fdba61bcf53bb04b8434) |
 | IdlePriceFeed                                | [0x99a8fea8d89efb5dcbd201688d6d62ae78740a58](https://polygonscan.com/address/0x99a8fea8d89efb5dcbd201688d6d62ae78740a58) |

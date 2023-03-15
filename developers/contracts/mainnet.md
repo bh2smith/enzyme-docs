@@ -1,13 +1,14 @@
 # Mainnet
 
-| Name                                         | Address                                                                                                               |
-| -------------------------------------------- | --------------------------------------------------------------------------------------------------------------------- |
 | AaveAdapter                                  | [0xd2bdd90629351cc1cd4427917ae23f97fd9d9933](https://etherscan.io/address/0xd2bdd90629351cc1cd4427917ae23f97fd9d9933) |
+| -------------------------------------------- | --------------------------------------------------------------------------------------------------------------------- |
 | AaveDebtPositionLib                          | [0xb3402eb0d45c63594699df3e5cac9116ccfc5ef3](https://etherscan.io/address/0xb3402eb0d45c63594699df3e5cac9116ccfc5ef3) |
 | AaveDebtPositionParser                       | [0xf6d47bdee7760067557b047ce4adcba819d7d5a8](https://etherscan.io/address/0xf6d47bdee7760067557b047ce4adcba819d7d5a8) |
 | AavePriceFeed                                | [0xe9cfe0f99b8a01fd80f110da4d8f08f6bf3dd6a6](https://etherscan.io/address/0xe9cfe0f99b8a01fd80f110da4d8f08f6bf3dd6a6) |
-| AaveV2Adapter                                | [0x6d1a8fee080b166fe1ca21e7fb71ccfb56c13f36](https://etherscan.io/address/0x6d1a8fee080b166fe1ca21e7fb71ccfb56c13f36) |
-| AaveV2ATokenListOwner                        | [0x290e58e944f2132c0f4219d63c965e9bd807b3fa](https://etherscan.io/address/0x290e58e944f2132c0f4219d63c965e9bd807b3fa) |
+| AaveV2Adapter                                | [0xECe6B376af7C9273cebaf6528565c47Ea2Cb8a4C](https://etherscan.io/address/0xECe6B376af7C9273cebaf6528565c47Ea2Cb8a4C) |
+| AaveV2ATokenListOwner                        | [0x26Cd328f2bdFe13A99b7e2FC19BbdCB4d8B54D69](https://etherscan.io/address/0x26Cd328f2bdFe13A99b7e2FC19BbdCB4d8B54D69) |
+| AaveV3Adapter                                | [0x9cfb64D91Ce4eB821fF8EdC1C2fdA2E89E256707](https://etherscan.io/address/0x9cfb64D91Ce4eB821fF8EdC1C2fdA2E89E256707) |
+| AaveV3ATokenListOwner                        | [0xCFe249a7AE4619980eeA1A2d83a26a5E7281EbB0](https://etherscan.io/address/0xCFe249a7AE4619980eeA1A2d83a26a5E7281EbB0) |
 | AddressListRegistry                          | [0x4eb4c7babfb5d54ab4857265b482fb6512d22dff](https://etherscan.io/address/0x4eb4c7babfb5d54ab4857265b482fb6512d22dff) |
 | AllowedAdapterIncomingAssetsPolicy           | [0x2f0e55830a173d845a886fd574f01a039a07fc37](https://etherscan.io/address/0x2f0e55830a173d845a886fd574f01a039a07fc37) |
 | AllowedAdaptersPerManagerPolicy              | [0xa4507d51c5270ff91229b76300ff90774384d144](https://etherscan.io/address/0xa4507d51c5270ff91229b76300ff90774384d144) |
@@ -21,10 +22,11 @@
 | ArbitraryLoanPositionLib                     | [0x73cb96137cb5455e77275a6ab3411d0d52d545a9](https://etherscan.io/address/0x73cb96137cb5455e77275a6ab3411d0d52d545a9) |
 | ArbitraryLoanPositionParser                  | [0xe959c0eef487f7ee098ad10998d9dfcf4fa1d1af](https://etherscan.io/address/0xe959c0eef487f7ee098ad10998d9dfcf4fa1d1af) |
 | ArbitraryLoanTotalNominalDeltaOracleModule   | [0x7f2a48122bbd3ffba33ed9d1f5cfabede7caab34](https://etherscan.io/address/0x7f2a48122bbd3ffba33ed9d1f5cfabede7caab34) |
-| AuraBalancerV2LpStakingAdapter               | [0x74bcdeb516d4438dc54b8f95c5e1f9858241411e](https://etherscan.io/address/0x74bcdeb516d4438dc54b8f95c5e1f9858241411e) |
-| AuraBalancerV2LpStakingWrapperFactory        | [0x100f4006072607207e21c8a31399f4c43cd99d3f](https://etherscan.io/address/0x100f4006072607207e21c8a31399f4c43cd99d3f) |
+| AuraBalancerV2LpStakingAdapter               | [0x581a1E865285144c32ebd8205CA144156920b5fd](https://etherscan.io/address/0x581a1E865285144c32ebd8205CA144156920b5fd) |
+| AuraBalancerV2LpStakingWrapperFactory        | [0x8BB50e51248fe2c69E133F27B4cE74eA4748079c](https://etherscan.io/address/0x8BB50e51248fe2c69E133F27B4cE74eA4748079c) |
+| AuraBalancerV2LpStakingWrapperPriceFeed      | [0x0b48d2b12950e96753f83011a8923b7b79265961](https://etherscan.io/address/0x0b48d2b12950e96753f83011a8923b7b79265961) |
 | BalancerV2GaugeTokenPriceFeed                | [0x312ce4bde393ff246b27c890b97ade37fedaa348](https://etherscan.io/address/0x312ce4bde393ff246b27c890b97ade37fedaa348) |
-| BalancerV2LiquidityAdapter                   | [0xe65df28eeec94bf2d21192fccb67852e93179daa](https://etherscan.io/address/0xe65df28eeec94bf2d21192fccb67852e93179daa) |
+| BalancerV2LiquidityAdapter                   | [0xAB5dA4aa08B56c7e5A9D5d8A5fF19cF09a88c305](https://etherscan.io/address/0xAB5dA4aa08B56c7e5A9D5d8A5fF19cF09a88c305) |
 | BalancerV2StablePoolPriceFeed                | [0x4d663e21ef8f8bccae7779c4433aa9f8442ec895](https://etherscan.io/address/0x4d663e21ef8f8bccae7779c4433aa9f8442ec895) |
 | BalancerV2WeightedPoolPriceFeed              | [0x083b8f465bba2bb274e48387e3f9c56323341286](https://etherscan.io/address/0x083b8f465bba2bb274e48387e3f9c56323341286) |
 | CompoundAdapter                              | [0x6ce8095a692aff6698c3aa8593be3976b6b8743d](https://etherscan.io/address/0x6ce8095a692aff6698c3aa8593be3976b6b8743d) |
@@ -37,7 +39,6 @@
 | ConvexCurveLpStakingAdapter                  | [0xe8943f116c974c05f637920fff3dfe0463528d9a](https://etherscan.io/address/0xe8943f116c974c05f637920fff3dfe0463528d9a) |
 | ConvexCurveLpStakingWrapperFactory           | [0x221283827ad1f136ceb296aee946b3923c0416fd](https://etherscan.io/address/0x221283827ad1f136ceb296aee946b3923c0416fd) |
 | ConvexCurveLpStakingWrapperPriceFeed         | [0xc5806c373749e8f5166405c89c86d9375bf5d041](https://etherscan.io/address/0xc5806c373749e8f5166405c89c86d9375bf5d041) |
-| ConvexCurveLpStakingWrapperPriceFeed         | [0x0b48d2b12950e96753f83011a8923b7b79265961](https://etherscan.io/address/0x0b48d2b12950e96753f83011a8923b7b79265961) |
 | ConvexVotingPositionLib                      | [0x12fa6805a1ff2d21318dcbcf677712bde8a033e1](https://etherscan.io/address/0x12fa6805a1ff2d21318dcbcf677712bde8a033e1) |
 | ConvexVotingPositionParser                   | [0x4619b0394f09ef964407dedce4ca19ad012bca20](https://etherscan.io/address/0x4619b0394f09ef964407dedce4ca19ad012bca20) |
 | CumulativeSlippageTolerancePolicy            | [0x3a49d5aec385ac1bde99f305316b945c5ee71312](https://etherscan.io/address/0x3a49d5aec385ac1bde99f305316b945c5ee71312) |
@@ -59,7 +60,9 @@
 | FundValueCalculatorRouter                    | [0x7c728cd0cfa92401e01a4849a01b57ee53f5b2b9](https://etherscan.io/address/0x7c728cd0cfa92401e01a4849a01b57ee53f5b2b9) |
 | GasRelayPaymasterFactory                     | [0x846bbe1925047023651de7ec289f329c24ded3a8](https://etherscan.io/address/0x846bbe1925047023651de7ec289f329c24ded3a8) |
 | GasRelayPaymasterLib                         | [0x08cb94f7101f4205f5e8590518b65935abf490f8](https://etherscan.io/address/0x08cb94f7101f4205f5e8590518b65935abf490f8) |
-| GlobalConfigLib                              | [0x4807e48eb7b1fd9ed7ac6d5ab55a6c39b57d4dcc](https://etherscan.io/address/0x4807e48eb7b1fd9ed7ac6d5ab55a6c39b57d4dcc) |
+| GatedRedemptionQueueSharesWrapperFactory     | [0x70C19A1132d16f4227DF23D5a9DB57B8775AB805](https://etherscan.io/address/0x70C19A1132d16f4227DF23D5a9DB57B8775AB805) |
+| GatedRedemptionQueueSharesWrapperLib         | [0x903c7dE08295d5c353b136f2A7391bc9B103F274](https://etherscan.io/address/0x903c7dE08295d5c353b136f2A7391bc9B103F274) |
+| GlobalConfigLib                              | [0x6682e70860d48a039f52daccda917250349a3fb3](https://etherscan.io/address/0x6682e70860d48a039f52daccda917250349a3fb3) |
 | GlobalConfigProxy                            | [0x5611df74a77efd198de5fc7f83a482dcfe0c7a7a](https://etherscan.io/address/0x5611df74a77efd198de5fc7f83a482dcfe0c7a7a) |
 | IdleAdapter                                  | [0x474c8d4a0e53b7235c6f8fc27c9b6406a32dd0b1](https://etherscan.io/address/0x474c8d4a0e53b7235c6f8fc27c9b6406a32dd0b1) |
 | IdlePriceFeed                                | [0x8ddf1f3f0c13e099378b2b6f73cdb8f61526ed6f](https://etherscan.io/address/0x8ddf1f3f0c13e099378b2b6f73cdb8f61526ed6f) |
@@ -67,8 +70,9 @@
 | LiquityDebtPositionLib                       | [0xdffec1be34bd674443bed299751824b65587a16b](https://etherscan.io/address/0xdffec1be34bd674443bed299751824b65587a16b) |
 | LiquityDebtPositionParser                    | [0x74cb50be01a12b8d98e7979f6c03a1ab2219c83e](https://etherscan.io/address/0x74cb50be01a12b8d98e7979f6c03a1ab2219c83e) |
 | ManagementFee                                | [0xfaf2c3db614e9d38fe05edc634848be7ff0542b9](https://etherscan.io/address/0xfaf2c3db614e9d38fe05edc634848be7ff0542b9) |
-| MapleLiquidityPositionLib                    | [0xa4902a1f3785e02ffce39b36b80107621d805b4c](https://etherscan.io/address/0xa4902a1f3785e02ffce39b36b80107621d805b4c) |
-| MapleLiquidityPositionParser                 | [0xe7f31b994cc11a32c4e17dc759f9c8e0d7343136](https://etherscan.io/address/0xe7f31b994cc11a32c4e17dc759f9c8e0d7343136) |
+| MapleLiquidityPositionLib                    | 0x073d30a78180f3a735285ab88afb3e43031c5705                                                                            |
+| MapleLiquidityPositionParser                 | 0x72a8793825a4c9691f939a0ba51a82ae866de91e                                                                            |
+| MapleV1ToV2PoolMapper                        | 0xc9cec493a9e1a0c48978d2258710f61f52f2da4e                                                                            |
 | MinAssetBalancesPostRedemptionPolicy         | [0x58c0a2a546b3903fa68a53e34ee0c8a02aabfad0](https://etherscan.io/address/0x58c0a2a546b3903fa68a53e34ee0c8a02aabfad0) |
 | MinMaxInvestmentPolicy                       | [0xebdadfc929c357d12281118828aea556db5be30c](https://etherscan.io/address/0xebdadfc929c357d12281118828aea556db5be30c) |
 | MinSharesSupplyFee                           | [0xbc9da8edde80ffb1294852d23ee1b385ea2d4929](https://etherscan.io/address/0xbc9da8edde80ffb1294852d23ee1b385ea2d4929) |
@@ -81,11 +85,15 @@
 | ProtocolFeeReserveProxy                      | [0xb7460593bd222e24a2bf4393aa6416bd373995e0](https://etherscan.io/address/0xb7460593bd222e24a2bf4393aa6416bd373995e0) |
 | ProtocolFeeTracker                           | [0xe97980f1d43c4cd4f1eef0277a2dea7ddbc2cd13](https://etherscan.io/address/0xe97980f1d43c4cd4f1eef0277a2dea7ddbc2cd13) |
 | SharesSplitterFactory                        | [0xfc8ed755c52782fa1a4ba9193b566e775701e511](https://etherscan.io/address/0xfc8ed755c52782fa1a4ba9193b566e775701e511) |
+| SolvV2BondBuyerPositionLib                   | [0x0E7D828f9F9A3Ce152D39f21F2e2D0fF89448b6b](https://etherscan.io/address/0x0E7D828f9F9A3Ce152D39f21F2e2D0fF89448b6b) |
+| SolvV2BondBuyerPositionParser                | [0xa2ed786215d6f4da95338ee7abb84f28134dc19c](https://etherscan.io/address/0xa2ed786215d6f4da95338ee7abb84f28134dc19c) |
+| SolvV2BondIssuerPositionLib                  | [0x31c30bacb054f5db7f5bc96850b488440abb8991](https://etherscan.io/address/0x31c30bacb054f5db7f5bc96850b488440abb8991) |
+| SolvV2BondIssuerPositionParser               | [0xC4B599043a5479398eb8Af387b1E36D9A924F8C2](https://etherscan.io/address/0xC4B599043a5479398eb8Af387b1E36D9A924F8C2) |
 | SynthetixAdapter                             | [0x4baf8282571febdfd8768b475551ec14e144edb3](https://etherscan.io/address/0x4baf8282571febdfd8768b475551ec14e144edb3) |
 | TheGraphDelegationPositionLib                | [0x6fff66d55698a601e91989c44349da8a2a9a7848](https://etherscan.io/address/0x6fff66d55698a601e91989c44349da8a2a9a7848) |
 | TheGraphDelegationPositionParser             | [0x2226d7687109d6b6a0882f8eef2b4a4c90dc677e](https://etherscan.io/address/0x2226d7687109d6b6a0882f8eef2b4a4c90dc677e) |
 | UintListRegistry                             | [0x6ffd6fc068e7b365af18da4fdc39d3289159407b](https://etherscan.io/address/0x6ffd6fc068e7b365af18da4fdc39d3289159407b) |
-| UniswapV2ExchangeAdapter                     | [0x592a4935f7b8e95b513eafb9f87a380e0d9314e4](https://etherscan.io/address/0x592a4935f7b8e95b513eafb9f87a380e0d9314e4) |
+| UniswapV2ExchangeAdapter                     | [0x8c36435a653041bfd65515cc82502663c1ce6f0e](https://etherscan.io/address/0x8c36435a653041bfd65515cc82502663c1ce6f0e) |
 | UniswapV2LiquidityAdapter                    | [0xf78130afeda6d9df3394b34d36239aec7fae48d9](https://etherscan.io/address/0xf78130afeda6d9df3394b34d36239aec7fae48d9) |
 | UniswapV2PoolPriceFeed                       | [0xdbc1162ea1ab770f0ba5fb494e0010e68351e3b0](https://etherscan.io/address/0xdbc1162ea1ab770f0ba5fb494e0010e68351e3b0) |
 | UniswapV3Adapter                             | [0xed6a08e05cb4260388dc7cc60bc5fefccfab2793](https://etherscan.io/address/0xed6a08e05cb4260388dc7cc60bc5fefccfab2793) |
