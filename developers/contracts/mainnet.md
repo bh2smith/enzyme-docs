@@ -24,7 +24,7 @@
 | ArbitraryLoanTotalNominalDeltaOracleModule   | [0x7f2a48122bbd3ffba33ed9d1f5cfabede7caab34](https://etherscan.io/address/0x7f2a48122bbd3ffba33ed9d1f5cfabede7caab34) |
 | AuraBalancerV2LpStakingAdapter               | [0x581a1E865285144c32ebd8205CA144156920b5fd](https://etherscan.io/address/0x581a1E865285144c32ebd8205CA144156920b5fd) |
 | AuraBalancerV2LpStakingWrapperFactory        | [0x8BB50e51248fe2c69E133F27B4cE74eA4748079c](https://etherscan.io/address/0x8BB50e51248fe2c69E133F27B4cE74eA4748079c) |
-| AuraBalancerV2LpStakingWrapperPriceFeed      | [0x0b48d2b12950e96753f83011a8923b7b79265961](https://etherscan.io/address/0x0b48d2b12950e96753f83011a8923b7b79265961) |
+| AuraBalancerV2LpStakingWrapperPriceFeed      | [0x746A47229c9455358ee3e976D21aEE8B9E730599](https://etherscan.io/address/0x746A47229c9455358ee3e976D21aEE8B9E730599) |
 | BalancerV2GaugeTokenPriceFeed                | [0x312ce4bde393ff246b27c890b97ade37fedaa348](https://etherscan.io/address/0x312ce4bde393ff246b27c890b97ade37fedaa348) |
 | BalancerV2LiquidityAdapter                   | [0xAB5dA4aa08B56c7e5A9D5d8A5fF19cF09a88c305](https://etherscan.io/address/0xAB5dA4aa08B56c7e5A9D5d8A5fF19cF09a88c305) |
 | BalancerV2StablePoolPriceFeed                | [0x4d663e21ef8f8bccae7779c4433aa9f8442ec895](https://etherscan.io/address/0x4d663e21ef8f8bccae7779c4433aa9f8442ec895) |
