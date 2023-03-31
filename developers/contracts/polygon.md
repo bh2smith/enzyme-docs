@@ -9,6 +9,7 @@
 | AaveV2ATokenListOwner                        | [0x6d5b95aa342f77e4825496334195e9c1c7d3208b](https://polygonscan.com/address/0x6d5b95aa342f77e4825496334195e9c1c7d3208b) |
 | AaveV3Adapter                                | [0xb3b21dfa60b399ad00587b845aef7476a1659e9f](https://polygonscan.com/address/0xb3b21dfa60b399ad00587b845aef7476a1659e9f) |
 | AaveV3ATokenListOwner                        | [0xeffb0467247b01e944203246694afb64d4af69ce](https://polygonscan.com/address/0xeffb0467247b01e944203246694afb64d4af69ce) |
+| AcceptsContractSignaturesForwarder           | [0x14c6b99AfFC61e9b0753146F3437A223d0c58279](https://polygonscan.com/address/0x14c6b99AfFC61e9b0753146F3437A223d0c58279) |
 | AddressListRegistry                          | [0x5ae15bf655a8f42b9c7d93e64f4476ec1da248f8](https://polygonscan.com/address/0x5ae15bf655a8f42b9c7d93e64f4476ec1da248f8) |
 | AllowedAdapterIncomingAssetsPolicy           | [0xc192fd3b13549ad5bc3c0a0118a29556d0cdd482](https://polygonscan.com/address/0xc192fd3b13549ad5bc3c0a0118a29556d0cdd482) |
 | AllowedAdaptersPerManagerPolicy              | [0x30ed4e3cf5e1faf6fc9776d256d535f3470bb710](https://polygonscan.com/address/0x30ed4e3cf5e1faf6fc9776d256d535f3470bb710) |
