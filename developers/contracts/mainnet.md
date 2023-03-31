@@ -9,6 +9,7 @@
 | AaveV2ATokenListOwner                        | [0x26Cd328f2bdFe13A99b7e2FC19BbdCB4d8B54D69](https://etherscan.io/address/0x26Cd328f2bdFe13A99b7e2FC19BbdCB4d8B54D69) |
 | AaveV3Adapter                                | [0x9cfb64D91Ce4eB821fF8EdC1C2fdA2E89E256707](https://etherscan.io/address/0x9cfb64D91Ce4eB821fF8EdC1C2fdA2E89E256707) |
 | AaveV3ATokenListOwner                        | [0xCFe249a7AE4619980eeA1A2d83a26a5E7281EbB0](https://etherscan.io/address/0xCFe249a7AE4619980eeA1A2d83a26a5E7281EbB0) |
+| AcceptsContractSignaturesForwarder           | [0xca57e5D6218AeB093D76372B51Ba355CfB3C6Cd0](https://etherscan.io/address/0xca57e5D6218AeB093D76372B51Ba355CfB3C6Cd0) |
 | AddressListRegistry                          | [0x4eb4c7babfb5d54ab4857265b482fb6512d22dff](https://etherscan.io/address/0x4eb4c7babfb5d54ab4857265b482fb6512d22dff) |
 | AllowedAdapterIncomingAssetsPolicy           | [0x2f0e55830a173d845a886fd574f01a039a07fc37](https://etherscan.io/address/0x2f0e55830a173d845a886fd574f01a039a07fc37) |
 | AllowedAdaptersPerManagerPolicy              | [0xa4507d51c5270ff91229b76300ff90774384d144](https://etherscan.io/address/0xa4507d51c5270ff91229b76300ff90774384d144) |
@@ -70,9 +71,9 @@
 | LiquityDebtPositionLib                       | [0xdffec1be34bd674443bed299751824b65587a16b](https://etherscan.io/address/0xdffec1be34bd674443bed299751824b65587a16b) |
 | LiquityDebtPositionParser                    | [0x74cb50be01a12b8d98e7979f6c03a1ab2219c83e](https://etherscan.io/address/0x74cb50be01a12b8d98e7979f6c03a1ab2219c83e) |
 | ManagementFee                                | [0xfaf2c3db614e9d38fe05edc634848be7ff0542b9](https://etherscan.io/address/0xfaf2c3db614e9d38fe05edc634848be7ff0542b9) |
-| MapleLiquidityPositionLib                    | 0x073d30a78180f3a735285ab88afb3e43031c5705                                                                            |
-| MapleLiquidityPositionParser                 | 0x72a8793825a4c9691f939a0ba51a82ae866de91e                                                                            |
-| MapleV1ToV2PoolMapper                        | 0xc9cec493a9e1a0c48978d2258710f61f52f2da4e                                                                            |
+| MapleLiquidityPositionLib                    | [0x073d30a78180f3a735285ab88afb3e43031c5705](https://etherscan.io/address/0x073d30a78180f3a735285ab88afb3e43031c5705) |
+| MapleLiquidityPositionParser                 | [0x72a8793825a4c9691f939a0ba51a82ae866de91e](https://etherscan.io/address/0x72a8793825a4c9691f939a0ba51a82ae866de91e) |
+| MapleV1ToV2PoolMapper                        | [0xc9cec493a9e1a0c48978d2258710f61f52f2da4e](https://etherscan.io/address/0xc9cec493a9e1a0c48978d2258710f61f52f2da4e) |
 | MinAssetBalancesPostRedemptionPolicy         | [0x58c0a2a546b3903fa68a53e34ee0c8a02aabfad0](https://etherscan.io/address/0x58c0a2a546b3903fa68a53e34ee0c8a02aabfad0) |
 | MinMaxInvestmentPolicy                       | [0xebdadfc929c357d12281118828aea556db5be30c](https://etherscan.io/address/0xebdadfc929c357d12281118828aea556db5be30c) |
 | MinSharesSupplyFee                           | [0xbc9da8edde80ffb1294852d23ee1b385ea2d4929](https://etherscan.io/address/0xbc9da8edde80ffb1294852d23ee1b385ea2d4929) |
