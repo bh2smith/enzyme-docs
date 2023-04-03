@@ -60,7 +60,7 @@
 | FundValueCalculator                          | [0x490e64e0690b4aa481fb02255aed3d052bad7bf1](https://etherscan.io/address/0x490e64e0690b4aa481fb02255aed3d052bad7bf1) |
 | FundValueCalculatorRouter                    | [0x7c728cd0cfa92401e01a4849a01b57ee53f5b2b9](https://etherscan.io/address/0x7c728cd0cfa92401e01a4849a01b57ee53f5b2b9) |
 | GasRelayPaymasterFactory                     | [0x846bbe1925047023651de7ec289f329c24ded3a8](https://etherscan.io/address/0x846bbe1925047023651de7ec289f329c24ded3a8) |
-| GasRelayPaymasterLib                         | [0x08cb94f7101f4205f5e8590518b65935abf490f8](https://etherscan.io/address/0x08cb94f7101f4205f5e8590518b65935abf490f8) |
+| GasRelayPaymasterLib                         | [0x2f1d153dd821258caa15656bde910e146e5f2f77](https://etherscan.io/address/0x2f1d153dd821258caa15656bde910e146e5f2f77) |
 | GatedRedemptionQueueSharesWrapperFactory     | [0x70C19A1132d16f4227DF23D5a9DB57B8775AB805](https://etherscan.io/address/0x70C19A1132d16f4227DF23D5a9DB57B8775AB805) |
 | GatedRedemptionQueueSharesWrapperLib         | [0x903c7dE08295d5c353b136f2A7391bc9B103F274](https://etherscan.io/address/0x903c7dE08295d5c353b136f2A7391bc9B103F274) |
 | GlobalConfigLib                              | [0x6682e70860d48a039f52daccda917250349a3fb3](https://etherscan.io/address/0x6682e70860d48a039f52daccda917250349a3fb3) |
