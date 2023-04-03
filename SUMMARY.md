@@ -32,6 +32,7 @@
   * [Trade](managers/trade/trading.md)
   * [DeFi Protocols](managers/trade/defi-protocols/README.md)
     * [Aave](managers/trade/defi-protocols/aave.md)
+    * [Aura](managers/trade/defi-protocols/aura.md)
     * [Balancer](managers/trade/defi-protocols/balancer.md)
     * [Compound](managers/trade/defi-protocols/compound.md)
     * [Convex](managers/trade/defi-protocols/convex.md)
