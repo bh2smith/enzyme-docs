@@ -4,7 +4,7 @@ Enzyme is an easy-to-use DeFi asset management system that funds, investment clu
 
 
 
-The high customisability of Enzyme means you can use it to build pretty much anything in DeFi. This is why we like to think of it as a DeFi Operating System.  If the interface doesn't cater for your use case, most likely the smart-contracts do. Avantgarde Finance offers services to companies building in DeFi. If it's not immediately obvious how it can be useful to you, [get in touch](https://app.gitbook.com/u/cNJyWoq7JFfSPTKZZVaS6XQUv7u2) with Avantgarde Finance about your use case and let us show you.
+The high customisability of Enzyme means you can use it to build pretty much anything in DeFi. This is why we like to think of it as a DeFi Operating System.  If the interface doesn't cater for your use case, most likely the smart-contracts do. Avantgarde Finance offers services to companies building in DeFi. If it's not immediately obvious how it can be useful to you, [get in touch](http://localhost:5000/u/cNJyWoq7JFfSPTKZZVaS6XQUv7u2) with Avantgarde Finance about your use case and let us show you.
 
 
 

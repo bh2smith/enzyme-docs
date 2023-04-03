@@ -1,5 +1,7 @@
 # Aura
 
+<figure><img src="../../../.gitbook/assets/aura1.png" alt=""><figcaption></figcaption></figure>
+
 Enzyme is delighted to present Aura Finance, an innovative platform designed to enhance the rewards experience for Balancer liquidity providers. By staking their BPT tokens on Aura, users can unlock additional yield opportunities, elevating their investment potential while engaging with a cutting-edge DeFi solution. Experience the transformative power of Aura Finance and propel your Balancer portfolio to new heights.\
 \
 Aura Finance is a protocol built on the Balancer system, designed to maximize incentives for Balancer liquidity providers and BAL stakers (veBAL) through the social aggregation of BAL deposits and its native token, AURA.\
