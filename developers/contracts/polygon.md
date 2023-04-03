@@ -45,7 +45,7 @@
 | FundValueCalculator                          | [0xcdf038dd3b66506d2e5378aee185b2f0084b7a33](https://polygonscan.com/address/0xcdf038dd3b66506d2e5378aee185b2f0084b7a33) |
 | FundValueCalculatorRouter                    | [0xd70389a7d6171e1dba6c3df4db7331811fd93f08](https://polygonscan.com/address/0xd70389a7d6171e1dba6c3df4db7331811fd93f08) |
 | GasRelayPaymasterFactory                     | [0xed05786ef7b5e5bf909512f0ad46eb8f22cdc4ca](https://polygonscan.com/address/0xed05786ef7b5e5bf909512f0ad46eb8f22cdc4ca) |
-| GasRelayPaymasterLib                         | [0x9feea9ec855096e702a146ee39797927103dc7a0](https://polygonscan.com/address/0x9feea9ec855096e702a146ee39797927103dc7a0) |
+| GasRelayPaymasterLib                         | [0x44654bc1107caaa3297ed5ccb70d9cdb445f5592](https://polygonscan.com/address/0x44654bc1107caaa3297ed5ccb70d9cdb445f5592) |
 | GatedRedemptionQueueSharesWrapperFactory     | [0x1aD5e5acc060FaFDe8a0E37aA382c250D64b62e3](https://polygonscan.com/address/0x1aD5e5acc060FaFDe8a0E37aA382c250D64b62e3) |
 | GatedRedemptionQueueSharesWrapperLib         | [0x334Ed809d962078b82f093aEdc2D520D2E394b7d](https://polygonscan.com/address/0x334Ed809d962078b82f093aEdc2D520D2E394b7d) |
 | GlobalConfigLib                              | [0xcbbD50255Cf49797BaDB28cE625a4ea217C67A64](https://polygonscan.com/address/0xcbbD50255Cf49797BaDB28cE625a4ea217C67A64) |
