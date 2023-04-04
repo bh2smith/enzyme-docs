@@ -50,7 +50,7 @@ Investment performance is not just about GAV though. Most investors care about o
 
 ### **Fees**
 
-![](.gitbook/assets/fees.png)
+![](<.gitbook/assets/fees (4).png>)
 
 The Fees section lays out exactly how much you'll pay in fees to buy and own shares of this product, as well as the accrued Protocol fees the vault has accumulated.
 

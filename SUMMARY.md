@@ -80,8 +80,9 @@
 
 ## Enhanced Features
 
-* [Whitelabel App](enhanced-features/whitelabel-app.md)
 * [Fee Splitter](enhanced-features/fee-splitter.md)
+* [Fiat On-Ramp](enhanced-features/fiat-on-ramp.md)
+* [Whitelabel App](enhanced-features/whitelabel-app.md)
 
 ## Governance
 
