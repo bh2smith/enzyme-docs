@@ -10,7 +10,7 @@ With Convex, you can **Stake** and **provide Liquidity** to **Pools**.&#x20;
 
 ## Lock/Delegate
 
-CVX holders can **Lock** or **Delegate** their **CVX** via Enzyme. You can delegate your CVX to [**Votium**](https://votium.app/) **** or you can delegate it to a specific address.
+CVX holders can **Lock** or **Delegate** their **CVX** via Enzyme. You can delegate your CVX to [**Votium**](https://votium.app/) or you can delegate it to a specific address.
 
 <div>
 
@@ -40,7 +40,7 @@ Your CVX will be locked for 16 weeks + the time between when you lock your CVX a
 
 ### **How To Delegate CVX?**
 
-1\. **** In your left-hand vault menu, go to “DeFi Protocols” and select Convex.
+1\. In your left-hand vault menu, go to “DeFi Protocols” and select Convex.
 
 2\. Click on the ‘Lock/Delegate’ tab.&#x20;
 
@@ -68,7 +68,7 @@ After the 16 full weeks(epochs) have passed your CVX will be automatically unloc
 
 ### **How To Claim Rewards?**
 
-1\. **** In your left-hand vault menu, go to “DeFi Protocols” and select Convex.&#x20;
+1\. In your left-hand vault menu, go to “DeFi Protocols” and select Convex.&#x20;
 
 2\. Click on the ‘Lock/Delegate’ tab.&#x20;
 

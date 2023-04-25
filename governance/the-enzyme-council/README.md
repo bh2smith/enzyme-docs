@@ -4,7 +4,7 @@ The Enzyme Protocol was originally developed by a Swiss company called Melonport
 
 **Fiduciary Duties and Conflicts of Interest**
 
-The Enzyme Council is bound by fiduciary duties, guiding principles and Enzyme Council Statutes. **** This means the Enzyme Council members will be obligated to act in the best interest of the Enzyme protocol. Any member violating their fiduciary duties will expose themselves to the revocation of their seat.
+The Enzyme Council is bound by fiduciary duties, guiding principles and Enzyme Council Statutes. This means the Enzyme Council members will be obligated to act in the best interest of the Enzyme protocol. Any member violating their fiduciary duties will expose themselves to the revocation of their seat.
 
 If an Enzyme Council member has a conflict of interest on a specific question, they should inform the rest of the members immediately and abstain from voting on the matter in question.
 
@@ -33,7 +33,7 @@ Enzyme User Representatives:
 
 #### **Incentive Structure**
 
-The people with the right skills for the ETC are scarce. Members are therefore incentivised with a portion of the protocol's yearly inflation. That portion is currently capped at 20%, and vests on a  schedule of 2 years. ****&#x20;
+The people with the right skills for the ETC are scarce. Members are therefore incentivised with a portion of the protocol's yearly inflation. That portion is currently capped at 20%, and vests on a  schedule of 2 years.&#x20;
 
 Initially this should just cover the ETC's costs, but by providing that reward as a percentage of the annual inflation (ie. a proportion of total market cap), we also introduce an incentive to grow Enzyme's market cap by adding value to the network.
 

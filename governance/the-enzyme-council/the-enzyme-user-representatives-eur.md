@@ -10,7 +10,7 @@ Users are able to elect delegates to represent their interests on the Enzyme Cou
 
 **Composition**
 
-The ratio of ETC : EURs is currently 5 **** : 2.
+The ratio of ETC : EURs is currently 5 : 2.
 
 The EURs help balance power by checking the decisions made by the ETC and can inform users about any suspicious activity.  It is possible for  EURs to vote on the exclusion of a Melon Council member violating the MC statutes (through a two-third majority vote).
 

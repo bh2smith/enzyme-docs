@@ -18,5 +18,5 @@ The dashboard is available when you've created an account and logged into the En
 
 Explore the Enzyme universe from the discover page. Here you will get the network status and various vaults that are active across the Enzyme ecosystem. Is a great place to stay up to date with the Enzyme.
 
-****
+
 

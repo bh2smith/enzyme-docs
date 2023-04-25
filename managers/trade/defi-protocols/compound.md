@@ -1,7 +1,5 @@
-# Compound
+# Compound v2
 
 ![](../../../.gitbook/assets/compound.png)
 
-[Compound](https://compound.finance/) is an algorithmic, autonomous interest rate protocol built for developers, to unlock a universe of open financial applications.
-
-With Compound, you can **Lend** and **Borrow** a variety of assets in the **Ethereum** network.
+[Compound](https://compound.finance/) is an algorithmic decentralized finance protocol built on the Ethereum blockchain that allows users to lend and borrow cryptocurrency assets. Enzyme enables its users to **lend and borrow** various assets **on** the **Ethereum** network using **Compound v2**.

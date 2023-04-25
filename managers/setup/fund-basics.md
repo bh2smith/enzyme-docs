@@ -23,4 +23,3 @@ The denomination asset is the base asset of your Vault. There are several implic
 * **Performance Fees**[**\***](fees.md)**:** It is the asset that your Vault's **performance fee** will be benchmarked and calculated against.&#x20;
 * **Deploying capital:** It is the asset that will be received from subscribers to your Vault and therefore the asset that will be held by the product's portfolio before you deploy it.&#x20;
 
-****

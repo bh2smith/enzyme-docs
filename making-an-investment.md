@@ -24,7 +24,7 @@ Once you've completed either process above and the `Invest` transaction is succe
 Ownership in Enzyme Vault's is represented by an ERC-20 token that enables you to redeem your shares. You can see an example of one of these tokens [here](https://etherscan.io/address/0x9d4ed905084bbc489a514c75420429c3a246e76d).
 
 {% hint style="danger" %}
-Investment in an Enzyme Vault **only** occurs through this two step process. Do not, under any circumstances, send assets directly to the fund contracts. **** While they will appear in the fund, you will not have a claim on them to redeem.
+Investment in an Enzyme Vault **only** occurs through this two step process. Do not, under any circumstances, send assets directly to the fund contracts. While they will appear in the fund, you will not have a claim on them to redeem.
 {% endhint %}
 
 {% hint style="danger" %}
@@ -33,4 +33,3 @@ We strongly warn against investing into an Enzyme vault which is allowed to inve
 ![](<.gitbook/assets/No external positions allowed..png>)
 {% endhint %}
 
-****

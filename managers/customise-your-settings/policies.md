@@ -46,7 +46,7 @@ Allows removing an asset from the vault’s tracked assets only if a) it does no
 
 ### **Restrict Wallets Permitted To Receive A Share Transfer**
 
-If enabled, restricts the potential recipients of shares transferred outside of the normal asset deposit and share minting process. **** This [policy](https://docs.enzyme.finance/managers/setup/share-transfers) acts in concert with but not as a replacement for the policy which restricts wallets able to receive minted shares.
+If enabled, restricts the potential recipients of shares transferred outside of the normal asset deposit and share minting process. This [policy](https://docs.enzyme.finance/managers/setup/share-transfers) acts in concert with but not as a replacement for the policy which restricts wallets able to receive minted shares.
 
 ### Allowed adapters per manager
 

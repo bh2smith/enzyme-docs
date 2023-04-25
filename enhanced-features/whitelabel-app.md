@@ -53,8 +53,7 @@ Here you have the ability to change your logo, update your background and custom
 
 If you need further support or would like to suggest improvements, please feel contact us at support@avantgarde.finance.
 
-****
+
 
 We hope you enjoy this new premium feature!
 
-****

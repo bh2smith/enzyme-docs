@@ -51,4 +51,4 @@ Additionally, the exit fee can be tiered such that single-asset redemptions are 
 **Why have an entrance or exit fee?** Such a fee could deter traders from subscribing and then redeeming in the same transaction to capture possible arbitrage opportunities which may arise. Such an attack would come at the expense of long-term depositors.&#x20;
 {% endhint %}
 
-## ****
+##

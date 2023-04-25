@@ -23,6 +23,5 @@ Restricts the value of a single-asset redemption by setting a minimum balance of
 
 Defines the amount of time that must pass from the time a user deposits until they’re allowed to either redeem or transfer any shares. This is arbitrage protection, and funds that have untrusted depositors should use a non-zero value. Depending on the trust level between the Depositors and the vault Manager, we recommend at least a 24 hours lock-up period.
 
-****
 
-****
+
