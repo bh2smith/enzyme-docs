@@ -108,3 +108,5 @@
 | YearnVaultV2Adapter                          | [0x7ea777f9f6ecbf4d03dc5323d3f057b0730fc34a](https://etherscan.io/address/0x7ea777f9f6ecbf4d03dc5323d3f057b0730fc34a) |
 | YearnVaultV2PriceFeed                        | [0x3982e1cc26b99310747df54f445063745c54a324](https://etherscan.io/address/0x3982e1cc26b99310747df54f445063745c54a324) |
 | ZeroExV2Adapter                              | [0xace8e944cda48439e8eeda4027115cfb6d942854](https://etherscan.io/address/0xace8e944cda48439e8eeda4027115cfb6d942854) |
+| KilnStakingPositionLib                       | [0xcdede9d4775854d41b4af20ccb563b96c8226830](https://etherscan.io/address/0xcdede9d4775854d41b4af20ccb563b96c8226830) |
+| KilnStakingPositionParser                    | [0x53b2Fdc57f053577Bd2dc828E08c04E205FB18A3](https://etherscan.io/address/0x53b2Fdc57f053577Bd2dc828E08c04E205FB18A3) |

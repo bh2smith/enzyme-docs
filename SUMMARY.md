@@ -35,7 +35,7 @@
     * [Aura](managers/trade/defi-protocols/aura.md)
     * [Balancer](managers/trade/defi-protocols/balancer.md)
     * [Compound V2](managers/trade/defi-protocols/compound-v2.md)
-    * [Compound v3](managers/trade/defi-protocols/compound-v3.md)
+    * [Compound V3](managers/trade/defi-protocols/compound-v3.md)
     * [Convex](managers/trade/defi-protocols/convex.md)
     * [Curve](managers/trade/defi-protocols/curve.md)
     * [Delegated Voting](managers/trade/defi-protocols/delegated-voting.md)

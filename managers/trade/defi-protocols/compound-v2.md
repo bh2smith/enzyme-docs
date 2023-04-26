@@ -1,4 +1,4 @@
-# Compound v2
+# Compound V2
 
 ![](../../../.gitbook/assets/compound.png)
 
