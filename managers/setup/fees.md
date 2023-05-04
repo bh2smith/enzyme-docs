@@ -33,9 +33,9 @@ Subscribers who enter when the product is above HWM  will pay no fees if the fun
 More detailed information on performance fees can be found [here](https://app.gitbook.com/@avantgarde-finance/s/enzyme-protocol-v2-general-spec/fee-formulas/performance-fee).
 
 \
-You can find below a visual representation of how and when fees are accrued.
+You can find below a visual representation of how and when fees are accrued and paid out.
 
-<figure><img src="../../.gitbook/assets/feesExplained.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Image for user doc 2.png" alt=""><figcaption></figcaption></figure>
 
 ### Entrance Fee
 
