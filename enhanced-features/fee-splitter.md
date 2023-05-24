@@ -1,6 +1,6 @@
 # Fee Splitter
 
-The Fee Splitter is a newly introduced Enzyme feature that allows you to split your fees among several wallets.&#x20;
+The Fee Splitter is a newly introduced Enzyme feature that allows you to split your fees among several wallets.
 
 ### Use cases
 
@@ -36,7 +36,7 @@ The fee splitter is one of our enhanced features so if you are interested in usi
 
 **For new vaults**, it is easier. We recommend creating the fee splitter contracts first, and then proceeding with the vault creation. As you define vault fees, you’ll need to set the contract address as the only recipient address.
 
-<figure><img src="../.gitbook/assets/image (7) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
 
 In case you manage several vaults with identical configurations, bear in mind that the splitter contract **can be reused** for more than one vault.
 
@@ -44,10 +44,10 @@ In case you manage several vaults with identical configurations, bear in mind th
 
 <figure><img src="../.gitbook/assets/fee_splitter.png" alt=""><figcaption></figcaption></figure>
 
-Any beneficiary of the fee recipient needs to go to the fee section of the vault, and click on claim fees.&#x20;
+Any beneficiary of the fee recipient needs to go to the fee section of the vault, and click on claim fees.
 
 {% hint style="info" %}
-You need to be logged in with the address of the fee recipient.&#x20;
+You need to be logged in with the address of the fee recipient.
 {% endhint %}
 
 ### **How to update the Fee Splitter**

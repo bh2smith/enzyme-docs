@@ -1,6 +1,6 @@
 # Uniswap V3
 
-![](../../../.gitbook/assets/uniswapv3.png) ![](<../../../.gitbook/assets/uniswapv3 (1).png>)
+![](<../../../.gitbook/assets/uniswapv3 (1).png>) ![](../../../.gitbook/assets/uniswapv3.png)
 
 [Uniswap V3](https://uniswap.org/) is flexible and efficient, allowing liquidity providers to allocate capital in a much more granular manner than its predecessor AMMs.
 
@@ -8,7 +8,7 @@ With Uniswap V3 you can **provide liquidity** within a certain price range to ex
 
 ### How To Provide Liquidity To Uniswap V3?
 
-1\. In your left-hand vault menu, go to “DeFi Protocols” and select Uniswap V3.&#x20;
+1\. In your left-hand vault menu, go to “DeFi Protocols” and select Uniswap V3.
 
 2\. Click on 'New Position'.
 

@@ -4,9 +4,9 @@
 
 ## Staking
 
-With Convex, you can **Stake** and **provide Liquidity** to **Pools**.&#x20;
+With Convex, you can **Stake** and **provide Liquidity** to **Pools**.
 
-![](<../../../.gitbook/assets/convex (1).png>)
+![](../../../.gitbook/assets/convex.png)
 
 ## Lock/Delegate
 
@@ -26,11 +26,11 @@ Delegating is a separate action from locking: you don't need to delegate if you 
 
 ### How To Lock Your CVX?
 
-1\. In your left-hand vault menu, go to “DeFi Protocols” and select Convex.&#x20;
+1\. In your left-hand vault menu, go to “DeFi Protocols” and select Convex.
 
-2\. Click on the ‘Lock/Delegate’ tab.&#x20;
+2\. Click on the ‘Lock/Delegate’ tab.
 
-3\. If you have CVX available balance, click on ‘Lock’.&#x20;
+3\. If you have CVX available balance, click on ‘Lock’.
 
 4\. Input the amount of CVX you wish to lock and click on ‘Lock’.
 
@@ -42,9 +42,9 @@ Your CVX will be locked for 16 weeks + the time between when you lock your CVX a
 
 1\. In your left-hand vault menu, go to “DeFi Protocols” and select Convex.
 
-2\. Click on the ‘Lock/Delegate’ tab.&#x20;
+2\. Click on the ‘Lock/Delegate’ tab.
 
-3\. At the bottom of the screen click on ‘Delegate’.&#x20;
+3\. At the bottom of the screen click on ‘Delegate’.
 
 4\. You may delegate to voting or to a particular address.
 
@@ -54,11 +54,11 @@ You might receive many different tokens when delegating to Votium. In this case,
 
 ### How To Relock CVX?
 
-1\. In your left-hand vault menu, go to “DeFi Protocols” and select Convex.&#x20;
+1\. In your left-hand vault menu, go to “DeFi Protocols” and select Convex.
 
-2\. Click on the ‘Lock/Delegate’ tab.&#x20;
+2\. Click on the ‘Lock/Delegate’ tab.
 
-3\. On the right-hand side of your available unlocked CVX balance click on ‘Relock’.&#x20;
+3\. On the right-hand side of your available unlocked CVX balance click on ‘Relock’.
 
 4\. Input the amount of CVX you wish to relock and click on ‘Relock’.
 
@@ -68,28 +68,28 @@ After the 16 full weeks(epochs) have passed your CVX will be automatically unloc
 
 ### **How To Claim Rewards?**
 
-1\. In your left-hand vault menu, go to “DeFi Protocols” and select Convex.&#x20;
+1\. In your left-hand vault menu, go to “DeFi Protocols” and select Convex.
 
-2\. Click on the ‘Lock/Delegate’ tab.&#x20;
+2\. Click on the ‘Lock/Delegate’ tab.
 
-3\. On the Claimable Rewards section, click on ‘Claim Rewards’.&#x20;
+3\. On the Claimable Rewards section, click on ‘Claim Rewards’.
 
 4\. You will be prompted with the tokens and amounts you will claim, then click on ‘Claim Rewards’.
 
 ### How to Withdraw?
 
-1\. In your left-hand vault menu, go to “DeFi Protocols” and select Convex.&#x20;
+1\. In your left-hand vault menu, go to “DeFi Protocols” and select Convex.
 
-2\. Click on the ‘Lock/Delegate’ tab.&#x20;
+2\. Click on the ‘Lock/Delegate’ tab.
 
 3\. On the right-hand side of your available unlocked CVX balance click on ‘Withdraw’.
 
 ### **How to Redelegate?**
 
-1\. In your left-hand vault menu, go to “DeFi Protocols” and select Convex.&#x20;
+1\. In your left-hand vault menu, go to “DeFi Protocols” and select Convex.
 
-2\. Click on the ‘Lock/Delegate’ tab.&#x20;
+2\. Click on the ‘Lock/Delegate’ tab.
 
-3\. At the bottom of the screen, on the ‘Votes delegated to address’ section, click on ‘Delegate’.&#x20;
+3\. At the bottom of the screen, on the ‘Votes delegated to address’ section, click on ‘Delegate’.
 
 4\. You can redelegate to Votium or any other address.

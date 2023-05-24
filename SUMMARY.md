@@ -50,7 +50,7 @@
     * [Borrow, Rewards & Airdrops](managers/trade/defi-protocols/borrow-rewards-and-airdrops.md)
 * [Vault Menu](managers/accounting-reporting-fees.md)
 * [Signaling an Upgrade](managers/signal-an-upgrade.md)
-* [Vaults for DAOs & Organisations](managers/vaults-for-organisations.md)
+* [Vaults for DAOs & Organisations](managers/vaults-for-organisations/README.md)
   * [Gnosis Safe - Ethereum](managers/vaults-for-organisations/gnosis-safe-ethereum.md)
   * [Gnosis Safe - Polygon](managers/vaults-for-organisations/gnosis-safe-polygon.md)
   * [Add Gnosis Safe Wallet To Your Enzyme Account](managers/vaults-for-organisations/add-gnosis-safe-wallet-to-your-enzyme-account.md)

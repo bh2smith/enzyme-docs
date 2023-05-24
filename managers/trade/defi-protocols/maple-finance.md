@@ -14,7 +14,7 @@ If you have opened a Maple lending position, there may be restrictions on when a
 
 2\. On the Available Markets, select the Name of the pool you would like to deposit and click on ‘Deposit’.
 
-<figure><img src="../../../.gitbook/assets/available markets (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/available markets.png" alt=""><figcaption></figcaption></figure>
 
 3\. Enter the amount you wish to deposit and click on ‘Deposit’.
 
@@ -26,7 +26,7 @@ If you have opened a Maple lending position, there may be restrictions on when a
 
 2\. On your Current Positions, click on the three dots of the pool you would like to add more capital, and select ‘Deposit’.
 
-<figure><img src="../../../.gitbook/assets/buttons (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/buttons (2).png" alt=""><figcaption></figcaption></figure>
 
 3\. Enter the amount you wish to deposit and click on ‘Deposit’.
 
@@ -65,4 +65,3 @@ Deposits to this Maple pool are locked for 90 days. If you make another deposit 
 3\. If you have available rewards to be claimed, click on ‘Claim Rewards.
 
 <figure><img src="../../../.gitbook/assets/Screenshot from 2022-09-22 14-09-16.png" alt=""><figcaption></figcaption></figure>
-

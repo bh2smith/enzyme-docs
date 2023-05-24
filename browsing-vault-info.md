@@ -26,37 +26,37 @@ On the portfolio tab, you'll find the vault's current positions.
 
 Investment performance is not just about GAV though. Most investors care about other metrics too. Enzyme calculates these provable metrics from on-chain data. A sample of just a few of the metrics you can get from the financials section can be found in the image below.
 
-* Gross Asset Value (GAV)&#x20;
-* Net Asset Value (NAV)&#x20;
-* Share Supply&#x20;
+* Gross Asset Value (GAV)
+* Net Asset Value (NAV)
+* Share Supply
 * Share Price
 
 **Return Metrics**
 
-* Return Month-to-Date&#x20;
-* Return Quarter-to-Date&#x20;
-* Return Year-to-Date&#x20;
-* Return Inception-to-Date&#x20;
-* Average Month&#x20;
-* Best Month&#x20;
-* Worst Month&#x20;
-* Positive Months&#x20;
+* Return Month-to-Date
+* Return Quarter-to-Date
+* Return Year-to-Date
+* Return Inception-to-Date
+* Average Month
+* Best Month
+* Worst Month
+* Positive Months
 * Length of Track Record
 
 **Risk Metrics (Trailing 30 Days)**
 
-* Annualised Volatility&#x20;
+* Annualised Volatility
 * Sharpe Ratio
 
 ### **Fees**
 
-![](<.gitbook/assets/fees (4).png>)
+![](.gitbook/assets/fees.png)
 
 The Fees section lays out exactly how much you'll pay in fees to buy and own shares of this product, as well as the accrued Protocol fees the vault has accumulated.
 
 ### Policies
 
-![](<.gitbook/assets/policies (1) (1).png>)
+![](.gitbook/assets/policies.png)
 
 On the Policies section, you will see if the vault has any policies such as **Allowed Investors, Investment Limits, Restricted Assets** and others.
 
@@ -68,6 +68,6 @@ Here you will see a list of all vault’s depositors.
 
 ### Activity
 
-![](<.gitbook/assets/activity (1).png>)
+![](.gitbook/assets/activity.png)
 
 Here you can see the activity from the Vault, deposits, withdrawals, trades, and paid out fees.

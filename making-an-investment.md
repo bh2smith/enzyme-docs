@@ -4,13 +4,13 @@ description: Depositing to Enzyme Vaults
 
 # Making an Investment
 
-Once you've settled on a Vault, you'll need to connect your wallet to the Enzyme app. Click on the `Connect Wallet` button in the top right corner and choose your connection provider.  Metamask, Wallet Connect, Coinbase Wallet and Gnosis Safe are currently compatible; if you do not see your preferred provider, please leave us feedback. We are actively integrating new wallets.
+Once you've settled on a Vault, you'll need to connect your wallet to the Enzyme app. Click on the `Connect Wallet` button in the top right corner and choose your connection provider. Metamask, Wallet Connect, Coinbase Wallet and Gnosis Safe are currently compatible; if you do not see your preferred provider, please leave us feedback. We are actively integrating new wallets.
 
 Once you're connected, make sure you've got some of your chosen network's native asset (ETH or MATIC) to pay for gas, then click the `Invest` button in the top right corner of the Vault's page. That will launch a modal that looks like this:
 
-![](<.gitbook/assets/image (44).png>)
+![](<.gitbook/assets/image (23).png>)
 
-You can invest in a vault using ETH or MATIC (depending on which network the vault is on) or the Vault's denomination asset. This is the asset against by which all benchmarks are measured for the Vault's fees. In the case above, the Vault's Denomination Asset is WMATIC. Investing in the vault via the denomination asset is a two step process and requires a transaction for each step.&#x20;
+You can invest in a vault using ETH or MATIC (depending on which network the vault is on) or the Vault's denomination asset. This is the asset against by which all benchmarks are measured for the Vault's fees. In the case above, the Vault's Denomination Asset is WMATIC. Investing in the vault via the denomination asset is a two step process and requires a transaction for each step.
 
 1. Choose an amount to invest and approve it; this transaction grants the vault permission to spend the assets in your wallet
 2. Deposit those assets in return for vault shares
@@ -30,6 +30,5 @@ Investment in an Enzyme Vault **only** occurs through this two step process. Do 
 {% hint style="danger" %}
 We strongly warn against investing into an Enzyme vault which is allowed to invest in external positions unless you know and trust the manager. This can potentially lead to locked up or lost funds. We recommend you check the policies section on a vault regularly to ensure that no external positions are allowed. We will be introducing automated notifications to alert users of such changes in the near future.
 
-![](<.gitbook/assets/No external positions allowed..png>)
+<img src=".gitbook/assets/No external positions allowed..png" alt="" data-size="original">
 {% endhint %}
-
