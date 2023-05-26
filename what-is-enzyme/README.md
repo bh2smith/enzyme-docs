@@ -1,14 +1,27 @@
+---
+description: Safeguard operations and streamline the management of digital assets
+---
+
 # What is Enzyme?
 
-Enzyme is an easy-to-use DeFi asset management system that funds, investment clubs, DAO treasuries and companies can plug into. It simplifies interaction with DeFi by acting as an aggregator of protocols and making your asset management experience seamless.&#x20;
+Enzyme is an easy-to-use on-chain asset management system that enables access to digital assets and DeFi from one simple, unified app. It provides a front-to-back execution and order management system, which provides fully automated reporting, risk management, administration, governance and operations.
 
 
 
-The high customisability of Enzyme means you can use it to build pretty much anything in DeFi. This is why we like to think of it as a DeFi Operating System.  If the interface doesn't cater for your use case, most likely the smart-contracts do. Avantgarde Finance offers services to companies building in DeFi. If it's not immediately obvious how it can be useful to you, [get in touch](http://localhost:5000/u/cNJyWoq7JFfSPTKZZVaS6XQUv7u2) with Avantgarde Finance about your use case and let us show you.
+Managing crypto and DeFi assets without purpose-built smart-contract permissions and controls in place creates operational risks to a business. Enzyme comes with a robust suite of programmable risk management and governance tools to protect your assets.
+
+* Full trade lifecycle support for crypto and DeFi
+* Establish trading roles within your organisation and grant smart-contract enforced permissions&#x20;
+* Define individual trading or P\&L stop-loss limits which are automatically enforced
+* Configurable and automated KYC capability Verifiable NAV reporting in real-time
 
 
 
+Moreover, Enzyme maintains sophisticated on-chain data pipelines that ensures data is auditable and trustworthy. This enables a radically new future based on the principles of transparency and auditability.&#x20;
 
+* A real-time reporting and performance dashboard with key performance and risk metrics
+* Verifiable NAV reporting in real time
+* Reports that provide easily readable and provable data on all transactions at any point in history
 
 {% content-ref url="use-cases.md" %}
 [use-cases.md](use-cases.md)
