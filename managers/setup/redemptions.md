@@ -6,7 +6,7 @@ description: 'Setup: Step 5 (Redemptions settings can be changed after creation)
 
 Generally speaking, deposits to and redemptions from your Vault are possible 24/7 unless you add a policy that dictates otherwise. **Caveat:** Trading heavily on Synthetix or other similarly designed exchanges, and the use of external positions may occasionally make redemptions not possible because of their delayed settlement design. The Guaranteed Redemption Policy ensures that your Vault has a policy that restricts you from trading during a specific time period each day so that depositors know with certainty that they can redeem within this window. This is a recommended policy to have if you will be trading with Synthetix. If you have any questions about using this policy, come and [discuss](https://t.me/enzymefinance) them with us.
 
-![](../../.gitbook/assets/redemptions.png)
+![](<../../.gitbook/assets/redemptions (1).png>)
 
 ## **Restrict Assets For Redemption**
 

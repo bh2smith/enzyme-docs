@@ -6,7 +6,7 @@
 
 With Convex, you can **Stake** and **provide Liquidity** to **Pools**.
 
-![](../../../.gitbook/assets/convex.png)
+![](<../../../.gitbook/assets/convex (1).png>)
 
 ## Lock/Delegate
 

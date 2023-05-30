@@ -6,7 +6,7 @@ description: 'Setup: Step 2 (Fees settings can be changed after creation)'
 
 Fees are optional and can be charged to anyone depositing into your Vault. All fees detailed in this section are paid out in newly created shares. There are four types of fees you can select as a Vault Manager, detailed below.
 
-![](<../../.gitbook/assets/fees (3).png>)
+![](<../../.gitbook/assets/fees (1).png>)
 
 {% hint style="danger" %}
 Note that in the screenshot, all fees are toggled on for display purposes. If you do not plan to charge a fee, make sure it is toggled off.

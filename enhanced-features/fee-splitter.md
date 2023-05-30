@@ -36,7 +36,7 @@ The fee splitter is one of our enhanced features so if you are interested in usi
 
 **For new vaults**, it is easier. We recommend creating the fee splitter contracts first, and then proceeding with the vault creation. As you define vault fees, you’ll need to set the contract address as the only recipient address.
 
-<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (26).png" alt=""><figcaption></figcaption></figure>
 
 In case you manage several vaults with identical configurations, bear in mind that the splitter contract **can be reused** for more than one vault.
 

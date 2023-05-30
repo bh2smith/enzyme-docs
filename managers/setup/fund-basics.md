@@ -6,7 +6,7 @@ description: 'Setup: Step 1'
 
 The first step of the setup process is simple.
 
-![](<../../.gitbook/assets/image (16).png>)
+![](<../../.gitbook/assets/image (39).png>)
 
 ### **Name**
 
