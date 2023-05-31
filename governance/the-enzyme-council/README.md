@@ -19,7 +19,7 @@ Enzyme Technical Council:
 * **Chain Security**
 * **Exa:** Co-founder of Exponent
 * **Janos Berghorn:** Investor @ KR1
-* **Avantgarde Finance:** Founder & CEO @ Avantgarde Finance
+* **Avantgarde Finance:** Mona El Isa, Founder & CEO @ Avantgarde Finance
 * **Nick Munoz-McDonald:** Smart Contract Auditor & Researcher @ G0 Group
 * **Paul Salisbury:** Founder @ Blockchain Labs
 * **Theophille Villard:** Co-founder of Multis wallet, contributor to Enzyme codebase
