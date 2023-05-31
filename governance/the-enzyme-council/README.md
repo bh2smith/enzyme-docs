@@ -8,7 +8,7 @@ The Enzyme Council is bound by fiduciary duties, guiding principles and Enzyme C
 
 If an Enzyme Council member has a conflict of interest on a specific question, they should inform the rest of the members immediately and abstain from voting on the matter in question.
 
-#### Leadership and Organization
+#### Organization
 
 The Enzyme Council has a Chair and Vice Chair which rotate bi-annually. Their responsibilities include coordinating the meetings and agenda. The Enzyme Council also contains several sub-groups which take leadership roles on specific topics, such as: audits, features, ecosystem projects, network parameters, token economics, community calls, etc.
 
@@ -19,7 +19,7 @@ Enzyme Technical Council:
 * **Chain Security**
 * **Exa:** Co-founder of Exponent
 * **Janos Berghorn:** Investor @ KR1
-* **Mona El Isa:** Founder & CEO @ Avantgarde Finance
+* **Avantgarde Finance:** Founder & CEO @ Avantgarde Finance
 * **Nick Munoz-McDonald:** Smart Contract Auditor & Researcher @ G0 Group
 * **Paul Salisbury:** Founder @ Blockchain Labs
 * **Theophille Villard:** Co-founder of Multis wallet, contributor to Enzyme codebase
