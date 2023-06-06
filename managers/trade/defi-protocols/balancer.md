@@ -23,7 +23,7 @@ Now vaults can provide liquidity to Balancer Pools and stake their Balancer Pool
 Adding single or unbalanced assets to the pool causes the price impact to rise.
 {% endhint %}
 
-<figure><img src="../../../.gitbook/assets/deposit.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/deposit (1).png" alt=""><figcaption></figcaption></figure>
 
 5\. Review the details and amounts, then click Deposit, Submit and confirm the transaction.
 

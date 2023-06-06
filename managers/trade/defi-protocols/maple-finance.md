@@ -14,11 +14,11 @@ If you have opened a Maple lending position, there may be restrictions on when a
 
 2\. On the Available Markets, select the Name of the pool you would like to deposit and click on ‘Deposit’.
 
-<figure><img src="../../../.gitbook/assets/available markets.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/available markets (1).png" alt=""><figcaption></figcaption></figure>
 
 3\. Enter the amount you wish to deposit and click on ‘Deposit’.
 
-<figure><img src="../../../.gitbook/assets/deposit (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/deposit.png" alt=""><figcaption></figcaption></figure>
 
 ### How To Add More Capital Into A Pool?
 
@@ -26,7 +26,7 @@ If you have opened a Maple lending position, there may be restrictions on when a
 
 2\. On your Current Positions, click on the three dots of the pool you would like to add more capital, and select ‘Deposit’.
 
-<figure><img src="../../../.gitbook/assets/buttons.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/buttons (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 3\. Enter the amount you wish to deposit and click on ‘Deposit’.
 
@@ -36,7 +36,7 @@ If you have opened a Maple lending position, there may be restrictions on when a
 
 2\. On your Current Positions, click on the three dots of the pool you would like to withdraw funds, and select ‘Intend to withdraw’.
 
-<figure><img src="../../../.gitbook/assets/intend withdrawal.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/intend withdrawal (1).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 This transaction will trigger a 10-day cooldown period. After that cooldown period is complete, you will have a 2-day window to withdraw your funds.

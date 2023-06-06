@@ -16,13 +16,13 @@ The drop-down menu in the top right corner of the chart allows you to show the p
 
 ### Portfolio
 
-![](.gitbook/assets/portfolio.png)
+![](<.gitbook/assets/portfolio (1).png>)
 
 On the portfolio tab, you'll find the vault's current positions.
 
 ### **Financials**
 
-![](<.gitbook/assets/financials (1).png>)
+![](.gitbook/assets/financials.png)
 
 Investment performance is not just about GAV though. Most investors care about other metrics too. Enzyme calculates these provable metrics from on-chain data. A sample of just a few of the metrics you can get from the financials section can be found in the image below.
 
@@ -50,13 +50,13 @@ Investment performance is not just about GAV though. Most investors care about o
 
 ### **Fees**
 
-![](<.gitbook/assets/fees (3).png>)
+![](<.gitbook/assets/fees (4).png>)
 
 The Fees section lays out exactly how much you'll pay in fees to buy and own shares of this product, as well as the accrued Protocol fees the vault has accumulated.
 
 ### Policies
 
-![](<.gitbook/assets/policies (2).png>)
+![](<.gitbook/assets/policies (1) (1).png>)
 
 On the Policies section, you will see if the vault has any policies such as **Allowed Investors, Investment Limits, Restricted Assets** and others.
 

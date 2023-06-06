@@ -6,7 +6,7 @@ description: 'Setup: Step 3 (Deposits settings can be changed after creation)'
 
 The configurations listed below are **optional** depending on the vault type you have previously selected. They limit who can deposit into your Vault, and how much they can deposit.
 
-![](<../../.gitbook/assets/deposits (1).png>)
+![](../../.gitbook/assets/deposits.png)
 
 {% hint style="danger" %}
 Note that in the screenshot, all deposit configurations are toggled on for display purposes. If you do not plan to restrict investments using these configurations, make sure they are toggled off.

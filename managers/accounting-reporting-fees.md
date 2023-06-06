@@ -8,7 +8,7 @@ Your Vault GAV updates in real-time on Enzyme. In other words, you can transpare
 
 ## Portfolio
 
-![](<../.gitbook/assets/portfolio (1).png>)
+![](../.gitbook/assets/portfolio.png)
 
 Here you can check your positions, which are updated in real-time, including the handling of deposit subscriptions, redemptions, trading, lending, pools and derivatives.
 
@@ -18,7 +18,7 @@ Enzyme allows you to track up to 20 assets in your portfolio, this limit is due 
 
 ## Financials
 
-![](../.gitbook/assets/financials.png)
+![](<../.gitbook/assets/financials (1).png>)
 
 Investment performance is not just about GAV though. Most investors care about other metrics too. The good news is that these are all calculated for you within the Enzyme ecosystem and provable from on-chain data. A sample of just a few of the metrics you can get from the financials section can be found in the image below.
 
@@ -46,7 +46,7 @@ Investment performance is not just about GAV though. Most investors care about o
 
 ## **Fees**
 
-![](../.gitbook/assets/fees.png)
+![](<../.gitbook/assets/fees (3).png>)
 
 We talked about fees in the [Set Up](setup/) section. Once you deploy your Vault to main-net, the protocol is continuously calculating and accruing any fees which are owed to the Vault Manager. Typically you'd need a team of expensive accountants or auditors to do this job but this feature is automated and embedded natively in Enzyme's contract logic.
 

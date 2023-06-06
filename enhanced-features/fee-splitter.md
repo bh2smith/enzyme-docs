@@ -22,7 +22,7 @@ The fee splitter is one of our enhanced features so if you are interested in usi
 
 3\. Add all recipient wallets, specifying the % distribution for each wallet. Note that the total sum must always be 100%. You can split fees up to a maximum of **10 different wallets**.
 
-<figure><img src="../.gitbook/assets/1.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/1 (1).png" alt=""><figcaption></figcaption></figure>
 
 4\. Once you execute the transaction, the splitter will provide you with a contract address.
 
@@ -36,7 +36,7 @@ The fee splitter is one of our enhanced features so if you are interested in usi
 
 **For new vaults**, it is easier. We recommend creating the fee splitter contracts first, and then proceeding with the vault creation. As you define vault fees, you’ll need to set the contract address as the only recipient address.
 
-<figure><img src="../.gitbook/assets/image (26).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (7) (1).png" alt=""><figcaption></figcaption></figure>
 
 In case you manage several vaults with identical configurations, bear in mind that the splitter contract **can be reused** for more than one vault.
 
