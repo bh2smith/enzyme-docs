@@ -1,7 +1,6 @@
 # Table of contents
 
-* [User Guides](README.md)
-* [What is Enzyme?](what-is-enzyme/README.md)
+* [What is Enzyme?](README.md)
   * [Use-Cases](what-is-enzyme/use-cases.md)
   * [User Types](what-is-enzyme/use-cases-1.md)
   * [Strategies, Networks & Integrations](what-is-enzyme/strategies-networks-and-integrations.md)
