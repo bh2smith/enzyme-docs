@@ -57,6 +57,7 @@
   * [Delegate Trading](managers/vaults-for-organisations/delegate-trading.md)
 * [Account](managers/account.md)
 * [Protocol Access](managers/protocol-fees.md)
+* [Insurance](managers/insurance.md)
 * [Risks and Nuances](managers/risks-and-nuances.md)
 
 ## DEPOSITING INTO SMART VAULTS <a href="#investors" id="investors"></a>
@@ -70,6 +71,7 @@
 * [Making an Investment](making-an-investment.md)
 * [Monitoring Your Vaults](monitoring-your-vaults.md)
 * [Redeeming](redeeming-your-investment.md)
+* [Insurance](insurance.md)
 * [Risks and Nuances](risks.md)
 
 ## Developers
