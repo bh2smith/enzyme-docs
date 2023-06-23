@@ -26,7 +26,3 @@ Do you want to start trading tokens? Simply click on the Token Swap tab and you'
 <figure><img src="../../.gitbook/assets/tx_review.png" alt="" width="245"><figcaption></figcaption></figure>
 
 </div>
-
-{% hint style="info" %}
-There is a 50 bps swap fee on any Paraswap trade in the Polygon network.
-{% endhint %}
