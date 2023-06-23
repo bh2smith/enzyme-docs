@@ -59,7 +59,7 @@
 | MinSharesSupplyFee                           | [0xeb45b91d582ae383e750a1626a97f854a9df19a3](https://polygonscan.com/address/0xeb45b91d582ae383e750a1626a97f854a9df19a3) |
 | OnlyRemoveDustExternalPositionPolicy         | [0xc0f49507c125a000e02ab58c22be9764e2abab99](https://polygonscan.com/address/0xc0f49507c125a000e02ab58c22be9764e2abab99) |
 | OnlyUntrackDustOrPricelessAssetsPolicy       | [0x9f856372f7bd844dac0254c7859b117259b5c9d2](https://polygonscan.com/address/0x9f856372f7bd844dac0254c7859b117259b5c9d2) |
-| ParaSwapV5Adapter                            | [0x5ef0dc91f1b109ef589b94447116eb58025e14d6](https://polygonscan.com/address/0x5ef0dc91f1b109ef589b94447116eb58025e14d6) |
+| ParaSwapV5Adapter                            | [0xb665e93e19eb18ef5005f0296d4693e3154ab0df](https://polygonscan.com/address/0xb665e93e19eb18ef5005f0296d4693e3154ab0df) |
 | PerformanceFee                               | [0xbc63afe28c66a6279bd3a55a4d0d3ab61f479bdf](https://polygonscan.com/address/0xbc63afe28c66a6279bd3a55a4d0d3ab61f479bdf) |
 | PolicyManager                                | [0x5a8ee0850d22ffef4169dbd348c1b0d7d5f5546f](https://polygonscan.com/address/0x5a8ee0850d22ffef4169dbd348c1b0d7d5f5546f) |
 | PoolTogetherV4Adapter                        | [0xe1ade612e8a568a4a060a60a22f890171d3dc63b](https://polygonscan.com/address/0xe1ade612e8a568a4a060a60a22f890171d3dc63b) |
