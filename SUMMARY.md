@@ -5,6 +5,7 @@
   * [User Types](what-is-enzyme/use-cases-1.md)
   * [Strategies, Networks & Integrations](what-is-enzyme/strategies-networks-and-integrations.md)
   * [Background](what-is-enzyme/background.md)
+  * [FAQ](what-is-enzyme/faq.md)
   * [Security](what-is-enzyme/security.md)
 
 ## BUILDING SMART VAULTS <a href="#managers" id="managers"></a>
