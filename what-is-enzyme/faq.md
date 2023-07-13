@@ -158,7 +158,7 @@ The Enzyme Protocol, formerly known as the Melon Protocol, was initially develop
 
 <summary><strong>What are the fees for using Enzyme app?</strong></summary>
 
-Enzyme implements a Protcol Fee, which is charged by minting additional vault shares to an Enzyme Council owned contract. Initially applied at 50 bps of AUM but can be bought back by the vault manager for 25 bps.
+Enzyme implements an Annualized Protocol Fee, which is charged continuously relative to an annualized target percentage of the Assets Under Management (AUM). The fee is collected by minting additional vault shares to an Enzyme Council owned contract. Initially, the fee is set at 50 bps of AUM but can be bought back by the vault manager for 25 bps, thus reducing the annualized fee.
 
 The Enzyme Council owned shares can be bought back at the equivalent value of $MLN, by the vault manager at 25 bps.
 
