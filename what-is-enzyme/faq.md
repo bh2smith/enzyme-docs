@@ -160,7 +160,7 @@ The Enzyme Protocol, formerly known as the Melon Protocol, was initially develop
 
 Enzyme implements a Protcol Fee, which is charged by minting additional vault shares to an Enzyme Council owned contract. Initially applied at 50 bps of AUM but can be bought back by the vault manager for 25 bps.
 
-The Enzyme Council owned shares can be bought back in the equivalent value of $MLN, either by the vault manager at 25 bps or by the Enzyme Council at 50 bps.
+The Enzyme Council owned shares can be bought back at the equivalent value of $MLN, by the vault manager at 25 bps.
 
 The $MLN is then burned. The “50% discount” encourages the vault manager to take care of this process rather than the Council having to. The protocol fee is charged each time that a fund:
 
