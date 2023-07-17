@@ -729,5 +729,21 @@ Vaults should hold at least the equivalent of 1 ETH in AUM to appear in top gain
 
 </details>
 
+<details>
+
+<summary>How to bypass the <strong>Set Cumulative Slippage Tolerance?</strong></summary>
+
+1 - Go to Settings > Policies. \
+2 - Under Active Policies, enable the "Asset Bypass" button for Cumulative Slippage Tolerance. \
+3 - From the dropdown list, select the asset you want to bypass (e.g., "RARI"). \
+4 - Click "Submit" to confirm the selection. \
+5 - Wait for 7 days. \
+6 - After the \
+7-day period, you'll have a 48-hour window to trade out your RARI.
+
+Make sure to complete the trade within the 48-hour window. If you miss it, you'll need to repeat the process.
+
+</details>
+
 
 
