@@ -100,7 +100,6 @@
 | [https://etherscan.io/address/0x26Cd328f2bdFe13A99b7e2FC19BbdCB4d8B54D69](https://etherscan.io/address/0x26Cd328f2bdFe13A99b7e2FC19BbdCB4d8B54D69)           | AaveV2ATokenListOwner                        |
 | [https://etherscan.io/address/0xECe6B376af7C9273cebaf6528565c47Ea2Cb8a4C](https://etherscan.io/address/0xECe6B376af7C9273cebaf6528565c47Ea2Cb8a4C)           | AaveV2Adapter                                |
 | [https://etherscan.io/address/0xE971375e3E8af54232F9B7c88cCE143EDf95C272#code](https://etherscan.io/address/0xE971375e3E8af54232F9B7c88cCE143EDf95C272#code) | GatedRedemptionQueueSharesWrapperLib         |
-| [https://etherscan.io/address/0x70C19A1132d16f4227DF23D5a9DB57B8775AB805](https://etherscan.io/address/0x70C19A1132d16f4227DF23D5a9DB57B8775AB805)           | GatedRedemptionQueueSharesWrapperFactory     |
 | [https://etherscan.io/address/0xCFe249a7AE4619980eeA1A2d83a26a5E7281EbB0](https://etherscan.io/address/0xCFe249a7AE4619980eeA1A2d83a26a5E7281EbB0)           | AaveV3ATokenListOwner                        |
 | [https://etherscan.io/address/0x9cfb64D91Ce4eB821fF8EdC1C2fdA2E89E256707](https://etherscan.io/address/0x9cfb64D91Ce4eB821fF8EdC1C2fdA2E89E256707)           | AaveV3Adapter                                |
 | [https://etherscan.io/address/0x0E7D828f9F9A3Ce152D39f21F2e2D0fF89448b6b](https://etherscan.io/address/0x0E7D828f9F9A3Ce152D39f21F2e2D0fF89448b6b)           | SolvV2BondBuyerPositionLib                   |
