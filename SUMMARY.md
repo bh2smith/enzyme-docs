@@ -44,6 +44,7 @@
     * [Kiln](managers/trade/defi-protocols/kiln.md)
     * [Liquity](managers/trade/defi-protocols/liquity.md)
     * [Maple Finance](managers/trade/defi-protocols/maple-finance.md)
+    * [Morpho](managers/trade/defi-protocols/morpho.md)
     * [The Graph](managers/trade/defi-protocols/the-graph.md)
     * [Uniswap V2](managers/trade/defi-protocols/uniswap-v2.md)
     * [Uniswap V3](managers/trade/defi-protocols/uniswap-v3.md)
