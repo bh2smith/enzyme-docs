@@ -10,16 +10,9 @@
 
 * **Stake** - You can stake multiples of 32 ETH
 * **Claim Fees** - Currently the only available claimable fees are execution layer fees.
+* **Unstake/Withdrawals**&#x20;
 
-{% hint style="info" %}
-Consensus layer fees accrues until become available to be claimed, possibly estimated after the shanghai fork (depending on the Ethereum foundation developments).
-{% endhint %}
 
-* **Withdrawals** - Currently ethereum staking withdrawals are not available for the entire network.
-
-{% hint style="info" %}
-If you stake, you won't be able to withdraw your ETH until the ethereum network staking withdrawals become available.
-{% endhint %}
 
 ### Staking Fee
 
