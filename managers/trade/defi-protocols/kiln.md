@@ -12,7 +12,24 @@
 * **Claim Fees** - Currently the only available claimable fees are execution layer fees.
 * **Unstake/Withdrawals**&#x20;
 
+### **How to Stake ETH in Your Enzyme Vault?**
 
+1. Navigate to "Defi Protocols" in the vault menu.
+2. Select "Kiln" from the list of protocols.
+3. Click on the three dots and select Stake.
+4. Add the amount of ETH you want to stake. \
+   Note: Ensure the ETH amount is a multiple of 32.
+5. Review the details to ensure the amount and protocol selection are accurate.
+6. Confirm your staking choice and sign the transaction with your connected wallet.
+
+### **How to unstake ETH from Your Enzyme Vault?**
+
+1. Navigate to "Defi Protocols" in the vault menu.
+2. Select "Kiln" from the list of protocols.
+3. Click on the three dots and select Unstake.
+4. Choose the amount of ETH you want to unstake.
+5. Review the details to ensure the amount and protocol selection are accurate.
+6. Confirm and sign the transaction with your connected wallet.
 
 ### Staking Fee
 
