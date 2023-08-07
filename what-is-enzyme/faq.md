@@ -322,7 +322,24 @@ The Fee Splitter is a smart contract that enables vault owners to distribute fee
 
 </details>
 
+<details>
+
+<summary>How to change the vault’s name</summary>
+
+To change the name of the vault, please follow these steps:
+
+1. Navigate to the vault menu on the left-hand side panel and click on "Settings".
+2. From the available tabs, select "Change Name".
+3. Inside the name change section, find the input field designated for the vault name.
+4. Enter the new name for your vault in the provided field and click on "Change Vault Name".
+5. Review the details to ensure the name is accurate.
+6. Confirm and sign the name change with your connected wallet.
+
+</details>
+
 ## **Security & Access**
+
+
 
 <details>
 
