@@ -8,8 +8,8 @@
 
 ### Available Actions:
 
-* **Stake** - You can stake multiples of 32 ETH
-* **Claim Fees** - Currently the only available claimable fees are execution layer fees.
+* **Stake** (You can stake multiples of 32 ETH)
+* **Claim Fees**&#x20;
 * **Unstake/Withdrawals**&#x20;
 
 ### **How to Stake ETH in Your Enzyme Vault?**
