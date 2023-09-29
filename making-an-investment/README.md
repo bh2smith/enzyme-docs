@@ -8,7 +8,7 @@ Once you've settled on a Vault, you'll need to connect your wallet to the Enzyme
 
 Once you're connected, make sure you've got some of your chosen network's native asset (ETH or MATIC) to pay for gas, then click the `Invest` button in the top right corner of the Vault's page. That will launch a modal that looks like this:
 
-![](<.gitbook/assets/image (44).png>)
+![](<../.gitbook/assets/image (44).png>)
 
 You can invest in a vault using ETH or MATIC (depending on which network the vault is on) or the Vault's denomination asset. This is the asset against by which all benchmarks are measured for the Vault's fees. In the case above, the Vault's Denomination Asset is WMATIC. Investing in the vault via the denomination asset is a two step process and requires a transaction for each step.
 
@@ -30,5 +30,5 @@ Investment in an Enzyme Vault **only** occurs through this two step process. Do 
 {% hint style="danger" %}
 We strongly warn against investing into an Enzyme vault which is allowed to invest in external positions unless you know and trust the manager. This can potentially lead to locked up or lost funds. We recommend you check the policies section on a vault regularly to ensure that no external positions are allowed. We will be introducing automated notifications to alert users of such changes in the near future.
 
-<img src=".gitbook/assets/No external positions allowed..png" alt="" data-size="original">
+<img src="../.gitbook/assets/No external positions allowed..png" alt="" data-size="original">
 {% endhint %}

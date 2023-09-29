@@ -33,7 +33,7 @@ Once you meet this criteria, you can proceed to create your personalised whitela
 
 First, you need to go to ‘My Account’, scroll down the page and select the ‘My Pages’ box.
 
-![](<../.gitbook/assets/image (3).png>)
+![](<../.gitbook/assets/image (3) (1).png>)
 
 You will see a button labelled, ‘**Create Page**’. Click on this and it will enable you to name the page, insert a custom subdomain and choose the vault you want this page to be allocated to. If you have more than one vault, all of these vaults will be visible in the ‘**Choose Vaults**’ dropdown menu, so be sure to select the correct vault that you would like to whitelabel.
 
@@ -43,7 +43,7 @@ Once you have populated the form with the page name, subdomain and chosen vault,
 
 Simply click on the “Customise” button and you will be redirected to your custom vault page.
 
-![](<../.gitbook/assets/image (3) (1).png>)
+![](<../.gitbook/assets/image (3) (1) (2).png>)
 
 Here you have the ability to change your logo, update your background and customise the theme and colour palette of the vault display page itself. This opens up a range of new possibilities for vault managers that want to create a clear point of difference and better attract and nurture potential investors.
 
