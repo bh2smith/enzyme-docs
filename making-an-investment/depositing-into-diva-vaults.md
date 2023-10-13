@@ -55,6 +55,61 @@ No. DIVA rewards will be the same for both vaults. The only difference is that t
 
 That's because as time goes by the vault starts to accrue rebasing ETH staking rewards on the pre-existing AUM so the vault share DSTVL starts to appreciate relative to stETH in a non-rebasing manner. A good example of this is the Unslashed Finance [vault](https://app.enzyme.finance/vault/0x86fb84e92c1eedc245987d28a42e123202bd6701?currency=ETH), where you can see the share appreciation over time as a result of stETH rewards.
 
+### What is the handover from Avantgarde Treasury to Diva DAO?
+
+The handover refers to the moment when the ownership of the Enzyme vaults is transferred from Avantgarde Treasury to Diva DAO. Enzyme is a non-custodial fund management protocol where owning a vault doesn’t imply owning the funds within it.
+
+### Can anyone access the funds within the Diva vaults on Enzyme?
+
+No, the Diva vaults on Enzyme operate on a non-custodial basis, meaning that only the stakers, who have received vault shares upon their deposit, can access the funds. There are no custodians involved in this setup.
+
+### What security measures are in place for configuration changes to the vaults?
+
+Currently, a 2/4 signature is needed for any change to the vault configuration, soon transitioning to a 3/5 consensus. Additionally, a 7-day timelock is triggered in the event of a configuration change, allowing stakers to redeem their assets in case the change is unauthorized before it takes effect.
+
+### What is the significance of transferring ownership to the DAO?
+
+Once ownership transition is completed, any modifications will require an on-chain DAO vote, extending the notice window for all stakeholders, thereby enhancing security and stakeholder involvement.
+
+### Why has the handover to Diva DAO not taken place yet?
+
+The handover has not occurred yet to avoid potential UX/UI frustrations and delays in implementation. Concerns include the current clunky UI/UX for changing granular vault settings from Tally and the necessity for vault reconfiguration to add connectivity to Lido native redemption and to Diva’s staking/divETH minting.
+
+### What actions are planned to improve the setup before and during the handover?
+
+In the short term, the plan involves increasing the signature threshold of Avantgarde Treasury's multisig to 3/5 signers and arranging a technical AMA with Enzyme’s auditor. In the medium term, the plan includes accelerating conversations with Tally & Aragon regarding the adjustment of granular vault settings following a successful on-chain DAO vote, defining a clear ETA for secure implementation and ownership transfer, and proposing and voting on the handover of vault ownership to Diva DAO
+
+### How does the multisig security work and what is the planned transition regarding signature consensus?
+
+The multisig security requires a specific number of signatures (2/4 initially, transitioning to 3/5) for any change to the vault configuration, ensuring that no single entity can make unilateral changes and enhancing the overall security of the vaults.
+
+### What can stakers do in the event of an unauthorized configuration change?
+
+If an any configuration change occurs, a 7-day timelock is initiated. Stakers can use this window to redeem their assets before the changes are implemented, ensuring they retain control over their holdings.
+
+### Where can more detailed information be found regarding the upgrade and architectural design of the Enzyme's infrastructure?
+
+\
+More information on signalling an upgrade and the overall architectural design can be found here: \
+
+
+* [https://docs.enzyme.finance/managers/signal-an-upgrade](https://docs.enzyme.finance/managers/signal-an-upgrade)
+* [https://medium.com/enzymefinance/fund-in-the-shell-e82c46a0a0fa](https://medium.com/enzymefinance/fund-in-the-shell-e82c46a0a0fa)
+
+### How committed is Avantgarde Treasury to transferring ownership to the DAO and what is the intended impact?
+
+Avantgarde Treasury is fully committed to transferring ownership to the DAO. The completion of this transition means that any future modifications will necessitate an on-chain DAO vote, thereby extending the notice window for all stakeholders and enhancing democratic decision-making processes.
+
+\
+\
+\
+
+
+\
+\
+
+
+\
 \
 \
 \
