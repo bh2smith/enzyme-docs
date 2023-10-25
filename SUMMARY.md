@@ -73,6 +73,7 @@
 * [Browsing Vault Information](browsing-vault-info.md)
 * [Making an Investment](making-an-investment/README.md)
   * [Depositing Into Diva Vaults](making-an-investment/depositing-into-diva-vaults.md)
+  * [Depositing Into Swell Vault](making-an-investment/depositing-into-swell-vault.md)
 * [Monitoring Your Vaults](monitoring-your-vaults.md)
 * [Redeeming](redeeming-your-investment.md)
 * [Insurance](insurance.md)
