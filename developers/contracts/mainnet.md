@@ -30,7 +30,7 @@
 | https://etherscan.io/address/[0xc9c14a99ccf467ea1ff2e19584a5faba3671b8de](https://etherscan.io/address/0xc9c14a99ccf467ea1ff2e19584a5faba3671b8de)           | CurveExchangeAdapter                         |
 | https://etherscan.io/address/[0xea0a896dde31cfcb53a96ac767119b69d7b4f633](https://etherscan.io/address/0xea0a896dde31cfcb53a96ac767119b69d7b4f633)           | CurveLiquidityAdapter                        |
 | https://etherscan.io/address/[0x7e6130e497035a34a08e0f18b7a9b0fa06ed013e](https://etherscan.io/address/0x7e6130e497035a34a08e0f18b7a9b0fa06ed013e)           | CurvePriceFeed                               |
-| https://etherscan.io/address/[0x59ea865ebb903ebc3e345efbbd4206dbd20d9c3f](https://etherscan.io/address/0x59ea865ebb903ebc3e345efbbd4206dbd20d9c3f)           | DepositWrapper                               |
+| https://etherscan.io/address/0x65bbad6545b7ac9c30fb0f07e64e25106bf05eec                                                                                      | DepositWrapper                               |
 | https://etherscan.io/address/[0xc3dc853dd716bd5754f421ef94fdcbac3902ab32](https://etherscan.io/address/0xc3dc853dd716bd5754f421ef94fdcbac3902ab32)           | Dispatcher                                   |
 | https://etherscan.io/address/[0xcdec5bbecc6d2c004d5378a63a3c484c2643ed9d](https://etherscan.io/address/0xcdec5bbecc6d2c004d5378a63a3c484c2643ed9d)           | EntranceRateBurnFee                          |
 | https://etherscan.io/address/[0xfb8df7d5e320020cd8047226b81cf6d68f3e3c19](https://etherscan.io/address/0xfb8df7d5e320020cd8047226b81cf6d68f3e3c19)           | EntranceRateDirectFee                        |

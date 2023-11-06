@@ -21,7 +21,7 @@
 | https://polygonscan.com/address/[0x7edcca545c784afa09c9decd5fff23057506da4b](https://polygonscan.com/address/0x7edcca545c784afa09c9decd5fff23057506da4b)           | CurveExchangeAdapter                         |
 | https://polygonscan.com/address/[0x40524c19050bc5cbdf55375b27e3d6ebc5ce9c65](https://polygonscan.com/address/0x40524c19050bc5cbdf55375b27e3d6ebc5ce9c65)           | CurveLiquidityAdapter                        |
 | https://polygonscan.com/address/[0xc537439f4397a0f625cb323f90bf87397da92fcf](https://polygonscan.com/address/0xc537439f4397a0f625cb323f90bf87397da92fcf)           | CurvePriceFeed                               |
-| https://polygonscan.com/address/[0x5100ef340bc3a27113e96b9571e784e89fc49114](https://polygonscan.com/address/0x5100ef340bc3a27113e96b9571e784e89fc49114)           | DepositWrapper                               |
+| https://polygonscan.com/address/0x2baa64f0ce9c2e60e91127fc3f40a72529e82c87                                                                                         | DepositWrapper                               |
 | https://polygonscan.com/address/[0x2e25271297537b8124b8f883a92ffd95c4032733](https://polygonscan.com/address/0x2e25271297537b8124b8f883a92ffd95c4032733)           | Dispatcher                                   |
 | https://polygonscan.com/address/[0x01460ba35cb6f847d65c5eee124e7e9e10055f16](https://polygonscan.com/address/0x01460ba35cb6f847d65c5eee124e7e9e10055f16)           | EntranceRateBurnFee                          |
 | https://polygonscan.com/address/[0x88c9a11c7bb8bc274388d0db864ab87c14fb78b8](https://polygonscan.com/address/0x88c9a11c7bb8bc274388d0db864ab87c14fb78b8)           | EntranceRateDirectFee                        |
