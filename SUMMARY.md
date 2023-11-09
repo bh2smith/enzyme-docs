@@ -42,6 +42,7 @@
     * [Delegated Voting](managers/trade/defi-protocols/delegated-voting.md)
     * [Idle](managers/trade/defi-protocols/idle.md)
     * [Kiln](managers/trade/defi-protocols/kiln.md)
+    * [Lido](managers/trade/defi-protocols/lido.md)
     * [Liquity](managers/trade/defi-protocols/liquity.md)
     * [Maple Finance](managers/trade/defi-protocols/maple-finance.md)
     * [Morpho](managers/trade/defi-protocols/morpho.md)
