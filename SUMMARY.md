@@ -47,6 +47,7 @@
     * [Maple Finance](managers/trade/defi-protocols/maple-finance.md)
     * [Morpho](managers/trade/defi-protocols/morpho.md)
     * [Spark](managers/trade/defi-protocols/spark.md)
+    * [Stakewise V3](managers/trade/defi-protocols/stakewise-v3.md)
     * [The Graph](managers/trade/defi-protocols/the-graph.md)
     * [Uniswap V2](managers/trade/defi-protocols/uniswap-v2.md)
     * [Uniswap V3](managers/trade/defi-protocols/uniswap-v3.md)

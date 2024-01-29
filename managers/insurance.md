@@ -18,3 +18,4 @@ Enzyme recognizes the importance of securing funds held within the platform. To 
 
 While Enzyme has partnered with the above-mentioned projects to provide insurance options for user funds, it's important to note that insurance coverage is subject to the terms and conditions set forth by the respective insurance protocols. Users are responsible for familiarizing themselves with the coverage details, exclusions, and limitations before making any insurance purchases.
 
+***
