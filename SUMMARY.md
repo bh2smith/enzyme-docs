@@ -96,10 +96,7 @@
 
 ## Governance
 
-* [Governance Overview](governance/governance-overview.md)
-* [The Enzyme Council](governance/the-enzyme-council/README.md)
-  * [The Enzyme Technical Council (ETC)](governance/the-enzyme-council/the-enzyme-technical-council-etc.md)
-  * [The Enzyme User Representatives (EUR)](governance/the-enzyme-council/the-enzyme-user-representatives-eur.md)
+* [Enzyme Governance](governance/governance-overview.md)
 
 ***
 

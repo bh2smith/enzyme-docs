@@ -14,11 +14,11 @@ Enzyme’s token is [MLN](https://etherscan.io/token/0xec67005c4e498ec7f55e092bd
 
 ## Enzyme Protocol Fee
 
-This release implements a protocol fee, which is charged by minting additional vault shares to an Enzyme Council owned contract.
+This release implements a protocol fee, which is charged by minting additional vault shares to an Enzyme owned contract.
 
 Initially applied at 50 bps of AUM but can be bought back by the vault manager for 25 bps.
 
-The Enzyme Council owned shares can be bought back in the equivalent value of $MLN,  by the vault manager at 25 bps. The $MLN is then burned. The “50% discount” encourages the vault manager to take care of this process rather than the Council having to.
+Enzyme owned shares can be bought back in the equivalent value of $MLN,  by the vault manager at 25 bps. The $MLN is then burned. The “50% discount” encourages the vault manager to take care of this process rather than Enzyme having to.
 
 The protocol fee is charged each time that a fund:
 
@@ -28,6 +28,4 @@ The protocol fee is charged each time that a fund:
 
 A more detailed discussion of the mechanics of the protocol fee can be found [here](https://avantgarde-finance.gitbook.io/enzyme-protocol-v4-sulu-general-spec/topics/protocol-fee).
 
-## Governance
-
-Enzyme is governed by a DAO known as the Enzyme Council which is made up of technical experts and user representatives. A complete discussion of the protocol's governance can be found [here](https://avantgarde-finance.gitbook.io/enzyme-protocol-v2-general-spec/governance/overview).
+## [Governance](../governance/governance-overview.md)
