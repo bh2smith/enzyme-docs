@@ -137,5 +137,7 @@
 | [https://etherscan.io/address/0x31391adf6402fdd4eb4b57801a612b0987a0b0f2](https://etherscan.io/address/0x31391adf6402fdd4eb4b57801a612b0987a0b0f2)                                                                            | PendleV2MarketRegistry                         |
 | [https://etherscan.io/address/0x85c474a1dbf7fdc22c592382ad554bb42cebce0b](https://etherscan.io/address/0x85c474a1dbf7fdc22c592382ad554bb42cebce0b)                                                                            | PendleV2PositionLib                            |
 | [https://etherscan.io/address/0x559af4e5765d60003e4895d23080c501cbb9ed3c](https://etherscan.io/address/0x559af4e5765d60003e4895d23080c501cbb9ed3c)                                                                            | PendleV2PositionParser                         |
+| [https://etherscan.io/address/0xe57c868f97e8c1deaf24dc72b89d886ebfa24d9f](https://etherscan.io/address/0xe57c868f97e8c1deaf24dc72b89d886ebfa24d9f)                                                                            | AlicePositionLib                               |
+| [https://etherscan.io/address/0xff60eb4b559d63beba1738281b63704266c6dac0](https://etherscan.io/address/0xff60eb4b559d63beba1738281b63704266c6dac0)                                                                            | AlicePositionParser                            |
 
 \
