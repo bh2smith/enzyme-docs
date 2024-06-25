@@ -1,6 +1,6 @@
 # Gnosis Safe - Polygon
 
-1. &#x20;Go to [app.enzyme.finance](https://app.enzyme.finance/).
+1. Go to [app.enzyme.finance](https://app.enzyme.finance/).
 2. On the top right corner, click on **Connect Wallet** and select **WalletConnect**.
 3. Below the QR code, click on “Copy to clipboard”.
 4. On a new browser tab, go to your [Gnosis Safe Wallet](https://gnosis-safe.io/) account.
@@ -14,10 +14,14 @@
 If you are using Ethereum mainnet, don’t click on Open Dapp, instead, click on “keep using WalletConnect”.
 {% endhint %}
 
-
-
 ### Recommendations
 
 Gnosis Safe Approval transactions take time and depending on how you have set up your gnosis safe wallet, you may need additional extra steps. It can be slow and inefficient to pass the multisig threshold every time you need to do a trade or interact with a DeFi protocol on Enzyme. So we’ve come up with a way to delegate trading to one address. The owner of this address can be a bot, a company’s trader or an assigned group delegated by a DAO.
 
 In order to delegate trading to one (or more) addresses, go to the Settings tab from the Vault Manager Launchpad and scroll down until you see Delegate Trading. Enter the Ethereum address and the add user address and submit the transaction. Now just go back to the Gnosis Safe app and repeat the steps provided earlier. Ask the multisig owners to log in with their address, connect via Wallet Connect and sign the pending transaction.
+
+
+
+### I can’t sign the special T\&Cs with my Gnosis Safe. How do I do it? <a href="#i-cant-sign-the-special-t-and-cs-with-my-gnosis-safe.-how-do-i-do-it" id="i-cant-sign-the-special-t-and-cs-with-my-gnosis-safe.-how-do-i-do-it"></a>
+
+If your Safe is doing on-chain signatures, it will not work. You will need to do off-chain signatures. You should be able to change this in “Settings” -> “Safe Apps” -> “Signing Method”, which should be left unchecked.
