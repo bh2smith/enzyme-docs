@@ -2,8 +2,9 @@
 
 ### **Use Enzyme**&#x20;
 
-* Enzyme Website: [https://enzyme.finance/](https://enzyme.finance/) Enzyme App: [https://app.enzyme.finance/discover](https://app.enzyme.finance/discover) User
-* Docs: [https://docs.enzyme.finance/](https://docs.enzyme.finance/)&#x20;
+* Enzyme Website: [https://enzyme.finance/](https://enzyme.finance/)&#x20;
+* Enzyme App: [https://app.enzyme.finance/discover](https://app.enzyme.finance/discover)&#x20;
+* User Docs: [https://docs.enzyme.finance/](https://docs.enzyme.finance/)&#x20;
 * Enzyme Integrations: [https://app.enzyme.finance/discover/integrations](https://app.enzyme.finance/discover/integrations)&#x20;
 * Ethereum Network Analytics: [https://app.enzyme.finance/network/information](https://app.enzyme.finance/network/information)&#x20;
 * Polygon Network Analytics: [https://app.enzyme.finance/network/information?network=polygon](https://app.enzyme.finance/network/information?network=polygon)&#x20;
@@ -15,7 +16,8 @@
 ### **Social Media**&#x20;
 
 * Discord: [https://discord.enzyme.finance/](https://discord.enzyme.finance/)&#x20;
-* Telegram: [https://telegram.enzyme.finance/](https://telegram.enzyme.finance/) Youtube: [https://youtube.enzyme.finance/](https://youtube.enzyme.finance/)&#x20;
+* Telegram: [https://telegram.enzyme.finance/](https://telegram.enzyme.finance/)&#x20;
+* Youtube: [https://youtube.enzyme.finance/](https://youtube.enzyme.finance/)&#x20;
 * Medium: [https://medium.enzyme.finance/](https://medium.enzyme.finance/)&#x20;
 * Linkedin: [https://linkedin.enzyme.finance/](https://linkedin.enzyme.finance/)&#x20;
 * Twitter: [https://twitter.enzyme.finance/](https://twitter.enzyme.finance/)&#x20;
