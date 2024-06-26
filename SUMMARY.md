@@ -7,6 +7,7 @@
   * [Background](what-is-enzyme/background.md)
   * [FAQ](what-is-enzyme/faq.md)
   * [Security](what-is-enzyme/security.md)
+  * [Official Links Hub](what-is-enzyme/official-links-hub.md)
 
 ## BUILDING SMART VAULTS <a href="#managers" id="managers"></a>
 
