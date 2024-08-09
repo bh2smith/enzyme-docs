@@ -1,44 +1,40 @@
 ---
-description: Safeguard operations and streamline the management of digital assets
+description: Accelerating growth for builders and managers.
+cover: .gitbook/assets/Infor (1).png
+coverY: 0
+layout:
+  cover:
+    visible: true
+    size: hero
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
 ---
 
-# What is Enzyme?
+# Introduction
 
-Enzyme is an easy-to-use on-chain asset management system that enables access to digital assets and DeFi from one simple, unified app. It provides a front-to-back execution and order management system, which provides fully automated reporting, risk management, administration, governance and operations.
-
-
-
-Managing crypto and DeFi assets without purpose-built smart-contract permissions and controls in place creates operational risks to a business. Enzyme comes with a robust suite of programmable risk management and governance tools to protect your assets.
-
-* Full trade lifecycle support for crypto and DeFi
-* Establish trading roles within your organisation and grant smart-contract enforced permissions&#x20;
-* Define individual trading or P\&L stop-loss limits which are automatically enforced
-* Configurable and automated KYC capability Verifiable NAV reporting in real-time
+Enzyme is a protocol for on-chain asset management. It is designed to accelerate project outcomes and facilitate on-chain asset management.\
 
 
+Enzyme can be leveraged by builders and managers to create asset management products and accelerate launch time to market. Enzyme enables projects to plug into a battle tested suite of contracts at low cost, without needing to worry about building and maintaining the underlying smart contract infrastructure. &#x20;
 
-Moreover, Enzyme maintains sophisticated on-chain data pipelines that ensures data is auditable and trustworthy. This enables a radically new future based on the principles of transparency and auditability.&#x20;
+The protocol comes with a suite of tools that make building applications and products quick and easy.&#x20;
 
-* A real-time reporting and performance dashboard with key performance and risk metrics
-* Verifiable NAV reporting in real time
-* Reports that provide easily readable and provable data on all transactions at any point in history
-
-{% content-ref url="what-is-enzyme/use-cases.md" %}
-[use-cases.md](what-is-enzyme/use-cases.md)
+{% content-ref url="what-is-enzyme/strategies-networks-and-integrations/" %}
+[strategies-networks-and-integrations](what-is-enzyme/strategies-networks-and-integrations/)
 {% endcontent-ref %}
 
-{% content-ref url="what-is-enzyme/strategies-networks-and-integrations.md" %}
-[strategies-networks-and-integrations.md](what-is-enzyme/strategies-networks-and-integrations.md)
+{% content-ref url="what-is-enzyme/use-cases-1/" %}
+[use-cases-1](what-is-enzyme/use-cases-1/)
 {% endcontent-ref %}
 
-{% content-ref url="what-is-enzyme/use-cases-1.md" %}
-[use-cases-1.md](what-is-enzyme/use-cases-1.md)
-{% endcontent-ref %}
-
-{% content-ref url="what-is-enzyme/background.md" %}
-[background.md](what-is-enzyme/background.md)
-{% endcontent-ref %}
-
-{% content-ref url="what-is-enzyme/security.md" %}
-[security.md](what-is-enzyme/security.md)
+{% content-ref url="general-info/security/" %}
+[security](general-info/security/)
 {% endcontent-ref %}
