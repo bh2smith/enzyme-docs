@@ -1,6 +1,6 @@
 # Add Gnosis Safe Wallet To Your Enzyme Account
 
-_If you are not already using SAFE with Enzyme, pls skip to_ [_this_](https://app.gitbook.com/o/-M17sAWG26bbHj7WurKa/s/WzXrybpj5e9VBbPlbYCJ/\~/changes/238/general-info/vaults-for-organisations) _page to find out how you can._
+_If you are not already using SAFE with Enzyme, pls skip to_ [_this_](../../general-info/vaults-for-organisations/) _page to find out how you can._
 
 When you add a wallet to your account, you need to sign a message with that wallet to prove that you have control over that wallet.
 
