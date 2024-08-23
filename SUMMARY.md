@@ -20,24 +20,6 @@
     * [Advisory](what-is-enzyme/strategies-networks-and-integrations/advisory.md)
     * [User Support](what-is-enzyme/strategies-networks-and-integrations/user-support.md)
   * [Official Links Hub](what-is-enzyme/official-links-hub.md)
-
-## BUILDING SMART VAULTS <a href="#managers" id="managers"></a>
-
-* [Set Up and Configure Your Vault](managers/setup/README.md)
-  * [Vault Types](managers/setup/vault-types.md)
-  * [Vault Basics](managers/setup/fund-basics.md)
-  * [Fees](managers/setup/fees.md)
-  * [Deposits](managers/setup/investments.md)
-  * [Share Transfers](managers/setup/share-transfers.md)
-  * [Redemptions](managers/setup/redemptions.md)
-  * [Asset Management](managers/setup/advanced-settings.md)
-  * [Review](managers/setup/confirm-and-seed.md)
-  * [Seed](managers/setup/seed.md)
-* [Trade & Interact with DeFi](managers/trade.md)
-* [Vault Menu](managers/accounting-reporting-fees.md)
-
-***
-
 * [Getting started](getting-started/README.md)
   * [Set up an Account](getting-started/account/README.md)
     * [Add Gnosis Safe Wallet To Your Enzyme Account](getting-started/account/add-gnosis-safe-wallet-to-your-enzyme-account.md)

@@ -66,6 +66,12 @@ For example, Curve stablecoin pools rely on the assumption that all assets in th
 
 For example, the [YearnVaultV2PriceFeed](../managers/broken-reference/) that is used for pricing yVault tokens relies on its yVault contract correctly reporting its value in a way that cannot be manipulated by price oracle manipulation attacks.
 
+## Price Feeds
+
+As Enzyme moves towards v5, one core assumption which is changing is that asset managers are trusted by default. This means that they are responsible for chosing the assets they hold in their portfolios and assessing the quality of the price feeds which may deviate from Chainlink and use different approaches (eg. TWAP, or pegging). Documentation will be provided to support asset managers in their asset universe choices. We will list the assets and the associated price feeds being used by the protocol. It is important to note that choosing an asset which uses a low quality price feed may lead to incorrect NAV of the vault which in turn may harm depositors in a vault. To avoid using poor quality price feeds, Vault owners can opt to have a "disallowed list" policy preventing the vault from being able to trade certain assets.
+
+
+
 ## Share price arbitrage
 
 In some instances, malicious actors can try to manipulate the share price of a vault temporarily by manipulating the pricing of the underlying assets. To mitigate this, we recommend managers impose a minimum 24h lock up period on depositors and charge an entrance fee. This is more relevent for public and hybrid vaults.
@@ -92,3 +98,12 @@ Bear in mind that this Maximum Slippage will only cover Type 1 slippage, as defi
 <figure><img src="../.gitbook/assets/slippage.png" alt=""><figcaption></figcaption></figure>
 
 Slippage occurs mostly when you are swapping tokens, so here you can find a list of the Enzyme DeFi integrations where slippage is relevant:
+
+
+
+## Maximum number of Assets should not exceed 20
+
+Enzyme allows you to track up to 20 assets in your portfolio, this limit is due gas costs. You can always track or untrack new assets from Settings > Asset Managment > Tracked Assets.
+
+
+
