@@ -32,6 +32,7 @@
     * [Allowed Lists](getting-started/roles-and-permissions/allowed-lists/README.md)
       * [Allowed Adapters](getting-started/roles-and-permissions/allowed-lists/allowed-adapters.md)
       * [Allowed External Positions](getting-started/roles-and-permissions/allowed-lists/allowed-external-positions.md)
+      * [Asset Disallowed list](getting-started/roles-and-permissions/allowed-lists/asset-disallowed-list.md)
     * [Slippage Stop-loss](getting-started/roles-and-permissions/slippage-stop-loss.md)
     * [\*Restrict Asset Position Removal](getting-started/roles-and-permissions/restrict-asset-position-removal.md)
     * [\*Restrict External Position Removal](getting-started/roles-and-permissions/restrict-external-position-removal.md)
