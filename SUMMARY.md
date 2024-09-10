@@ -82,6 +82,7 @@
     * [Contracts](general-info/codebase/contracts/README.md)
       * [Ethereum](general-info/codebase/contracts/mainnet.md)
       * [Polygon](general-info/codebase/contracts/polygon.md)
+      * [Arbitrum](general-info/codebase/contracts/arbitrum.md)
   * [Protocol fees](general-info/protocol-fees.md)
   * [Risks & Nuances](general-info/risks-and-nuances.md)
   * [Governance](general-info/governance-overview.md)
