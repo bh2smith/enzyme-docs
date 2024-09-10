@@ -61,3 +61,5 @@
 | [https://arbiscan.io/address/0x8f30c0483c1cd32c100462f1af6d4ae6283086a9](https://arbiscan.io/address/0x8f30c0483c1cd32c100462f1af6d4ae6283086a9) | BalancerV2StablePoolPriceFeed                |
 | [https://arbiscan.io/address/0xa95878965f3af1d88002e06ae25182a45943b9e2](https://arbiscan.io/address/0xa95878965f3af1d88002e06ae25182a45943b9e2) | BalancerV2WeightedPoolPriceFeed              |
 | [https://arbiscan.io/address/0x5c9348fbedb75c39f0e84396618accab6c01f847](https://arbiscan.io/address/0x5c9348fbedb75c39f0e84396618accab6c01f847) | DisallowedAdapterIncomingAssetsPolicy        |
+| [https://arbiscan.io/address/0x898a760cef5e7f340d508f153a8dcd856d7d7bad](https://arbiscan.io/address/0x898a760cef5e7f340d508f153a8dcd856d7d7bad) | GMXV2LeverageTradingPositionParser           |
+| [https://arbiscan.io/address/0xcf9f88327a2fcb30988b27460d4373f887359d09](https://arbiscan.io/address/0xcf9f88327a2fcb30988b27460d4373f887359d09) | GMXV2LeverageTradingPositionLib              |
