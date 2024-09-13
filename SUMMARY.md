@@ -57,6 +57,7 @@
       * [Convex](getting-started/start-trading/defi-protocols/convex.md)
       * [Curve](getting-started/start-trading/defi-protocols/curve.md)
       * [Delegated Voting](getting-started/start-trading/defi-protocols/delegated-voting.md)
+      * [GMX](getting-started/start-trading/defi-protocols/gmx.md)
       * [Idle](getting-started/start-trading/defi-protocols/idle.md)
       * [Kiln](getting-started/start-trading/defi-protocols/kiln.md)
       * [Lido](getting-started/start-trading/defi-protocols/lido.md)
