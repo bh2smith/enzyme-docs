@@ -20,7 +20,7 @@
 | [https://arbiscan.io/address/0xd2fa8f6706241dfdf8069d05e1d6f6c4a439aa86](https://arbiscan.io/address/0xd2fa8f6706241dfdf8069d05e1d6f6c4a439aa86) | ManagementFee                                                 |
 | [https://arbiscan.io/address/0x2c46503d4a0313c7161a5593b6865baa194b466f](https://arbiscan.io/address/0x2c46503d4a0313c7161a5593b6865baa194b466f) | FeeManager                                                    |
 | [https://arbiscan.io/address/0x90b53aefdbd2ba3573d965d2d98951f2aa00507d](https://arbiscan.io/address/0x90b53aefdbd2ba3573d965d2d98951f2aa00507d) | ExternalPositionManager                                       |
-| [https://arbiscan.io/address/0xa51dd657f875fcc37c697ee9cc59606979867384](https://arbiscan.io/address/0xa51dd657f875fcc37c697ee9cc59606979867384) | AaveV3DebtPositionParser                                      |
+| [https://arbiscan.io/address/0xeb6addb4cb39472e6dc61ab251e21971e40cd3a6](https://arbiscan.io/address/0xeb6addb4cb39472e6dc61ab251e21971e40cd3a6) | AaveV3DebtPositionParser                                      |
 | [https://arbiscan.io/address/0xe1a147b3fb8a7be78bf3a061f176bc718d897695](https://arbiscan.io/address/0xe1a147b3fb8a7be78bf3a061f176bc718d897695) | VaultLib                                                      |
 | [https://arbiscan.io/address/0xeb036c294e54cc5047ab526c204752d056cc1952](https://arbiscan.io/address/0xeb036c294e54cc5047ab526c204752d056cc1952) | AllowedAdaptersPerManagerPolicy                               |
 | [https://arbiscan.io/address/0x166ada85f6a398ba01d2b97022770cc6bd9d2ea2](https://arbiscan.io/address/0x166ada85f6a398ba01d2b97022770cc6bd9d2ea2) | AllowedAssetsForRedemptionPolicy                              |
@@ -37,7 +37,7 @@
 | [https://arbiscan.io/address/0xb5ef1f5e549ad46603bec9011b99a96a6cfd993e](https://arbiscan.io/address/0xb5ef1f5e549ad46603bec9011b99a96a6cfd993e) | AllowedSharesTransferRecipientsPolicy                         |
 | [https://arbiscan.io/address/0xc6ece1bff7a7b16def7e2a6956b7c75189240671](https://arbiscan.io/address/0xc6ece1bff7a7b16def7e2a6956b7c75189240671) | UniswapV3LiquidityPositionParser                              |
 | [https://arbiscan.io/address/0xe71227d6d846e0fb3367d020683327031c4c4a3d](https://arbiscan.io/address/0xe71227d6d846e0fb3367d020683327031c4c4a3d) | ProtocolFeeTracker                                            |
-| [https://arbiscan.io/address/0x6ed6a83863e95f63a1a917d5797e03ee86ee877e](https://arbiscan.io/address/0x6ed6a83863e95f63a1a917d5797e03ee86ee877e) | AaveV3DebtPositionLib                                         |
+| [https://arbiscan.io/address/0x0d84bddd837f3e39c26316c3f64c59be008e6d20](https://arbiscan.io/address/0x0d84bddd837f3e39c26316c3f64c59be008e6d20) | AaveV3DebtPositionLib                                         |
 | [https://arbiscan.io/address/0xde0c43b8cb1cacdec773ef55fcbfbcbe009891f1](https://arbiscan.io/address/0xde0c43b8cb1cacdec773ef55fcbfbcbe009891f1) | AllowedDepositRecipientsPolicy                                |
 | [https://arbiscan.io/address/0x38673bace2ae5e90d4936d0d90b58a3577795205](https://arbiscan.io/address/0x38673bace2ae5e90d4936d0d90b58a3577795205) | AllowedExternalPositionTypesPerManagerPolicy                  |
 | [https://arbiscan.io/address/0x487f6a8a93c2be5a296ead2c3fbc3fceed4ac599](https://arbiscan.io/address/0x487f6a8a93c2be5a296ead2c3fbc3fceed4ac599) | CumulativeSlippageTolerancePolicy                             |
@@ -65,3 +65,4 @@
 | [https://arbiscan.io/address/0xcf9f88327a2fcb30988b27460d4373f887359d09](https://arbiscan.io/address/0xcf9f88327a2fcb30988b27460d4373f887359d09) | GMXV2LeverageTradingPositionLib                               |
 | [https://arbiscan.io/address/0xd38c8c77b250d80e743013c4019d02f6cc85b80e](https://arbiscan.io/address/0xd38c8c77b250d80e743013c4019d02f6cc85b80e) | AaveV3FlashLoanAssetManagerLib                                |
 | [https://arbiscan.io/address/0xb49f8c0ce9df900e024dab48952bb8a8992c1795](https://arbiscan.io/address/0xb49f8c0ce9df900e024dab48952bb8a8992c1795) | DispatcherOwnedBeaconFactory (AaveV3FlashLoanAssetManagerLib) |
+| [https://arbiscan.io/address/0xe8db4924569a3c61aadfb721bbb009e3127196bd](https://arbiscan.io/address/0xe8db4924569a3c61aadfb721bbb009e3127196bd) | TransferAssetsAdapter                                         |
