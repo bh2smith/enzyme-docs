@@ -66,3 +66,5 @@
 | [https://arbiscan.io/address/0xd38c8c77b250d80e743013c4019d02f6cc85b80e](https://arbiscan.io/address/0xd38c8c77b250d80e743013c4019d02f6cc85b80e) | AaveV3FlashLoanAssetManagerLib                                |
 | [https://arbiscan.io/address/0xb49f8c0ce9df900e024dab48952bb8a8992c1795](https://arbiscan.io/address/0xb49f8c0ce9df900e024dab48952bb8a8992c1795) | DispatcherOwnedBeaconFactory (AaveV3FlashLoanAssetManagerLib) |
 | [https://arbiscan.io/address/0xe8db4924569a3c61aadfb721bbb009e3127196bd](https://arbiscan.io/address/0xe8db4924569a3c61aadfb721bbb009e3127196bd) | TransferAssetsAdapter                                         |
+| [https://arbiscan.io/address/0x92da9df390d3e9199d105289b297eca357ecc9b7](https://arbiscan.io/address/0x92da9df390d3e9199d105289b297eca357ecc9b7) | TheGraphDelegationPositionLib                                 |
+| [https://arbiscan.io/address/0xc2822eca13a7760141041a173c1b9b13e22515f6](https://arbiscan.io/address/0xc2822eca13a7760141041a173c1b9b13e22515f6) | TheGraphDelegationPositionParser                              |
