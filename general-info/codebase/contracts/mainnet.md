@@ -151,5 +151,7 @@ description: Below are the protocol contracts for Enzyme v4 on Ethereum.
 | [https://etherscan.io/address/0x8aa6f11fef40eb24c2f77de538f40ac8a9ec9f0d](https://etherscan.io/address/0x8aa6f11fef40eb24c2f77de538f40ac8a9ec9f0d)                                                                            | AaveV3FlashLoanAssetManagerLib                                |
 | [https://etherscan.io/address/0xd6e8b30214ef909421eb1d20e5b281777810004a](https://etherscan.io/address/0xd6e8b30214ef909421eb1d20e5b281777810004a)                                                                            | DispatcherOwnedBeaconFactory (AaveV3FlashLoanAssetManagerLib) |
 | [https://etherscan.io/address/0xe0309Fa2412B811a0BD40A73297093707259217f](https://etherscan.io/address/0xe0309Fa2412B811a0BD40A73297093707259217f#code)                                                                       | TransferAssetsAdapter                                         |
+| [https://etherscan.io/address/0x0edbb060a8f00f5967eecfc87c8559fa65501a3d](https://etherscan.io/address/0x0edbb060a8f00f5967eecfc87c8559fa65501a3d)                                                                            | ManualValueOracleFactory                                      |
+| [https://etherscan.io/address/0x115Fd95EE33d0FeDD98fC41496E9639490E3d4a1](https://etherscan.io/address/0x115Fd95EE33d0FeDD98fC41496E9639490E3d4a1#code)                                                                       | ManualValueOracleLib                                          |
 
 \

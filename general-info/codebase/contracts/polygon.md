@@ -100,5 +100,7 @@ description: Below are the protocol contracts for Enzyme v4 on Ethereum.
 | [https://polygonscan.com/address/0x12534065db54c01a73857febc6a0a9225b53309c](https://polygonscan.com/address/0x12534065db54c01a73857febc6a0a9225b53309c)                                                                               | AaveV3FlashLoanAssetManagerLib                                |
 | [https://polygonscan.com/address/0xc393aab83371350e6c002b1c2db75c4f6b56308c](https://polygonscan.com/address/0xc393aab83371350e6c002b1c2db75c4f6b56308c)                                                                               | DispatcherOwnedBeaconFactory (AaveV3FlashLoanAssetManagerLib) |
 | [https://polygonscan.com/address/0x52e83a4c9a123500e8324b9f489a681ffda92a17](https://polygonscan.com/address/0x52e83a4c9a123500e8324b9f489a681ffda92a17#code)                                                                          | TransferAssetsAdapter                                         |
+| [https://polygonscan.com/address/0x735615beb04bfd3665f06541ea00af1860c4354f](https://polygonscan.com/address/0x735615beb04bfd3665f06541ea00af1860c4354f)                                                                               | ManualValueOracleFactory                                      |
+| <p><a href="https://polygonscan.com/address/0x63f7459d69f82b5c6987f5e3aceea7148ef2eb2a"> https://polygonscan.com/address/0x63f7459d69f82b5c6987f5e3aceea7148ef2eb2a<br><br></a></p>                                                    | ManualValueOracleLib                                          |
 
 \

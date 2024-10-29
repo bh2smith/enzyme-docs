@@ -68,3 +68,5 @@
 | [https://arbiscan.io/address/0xe8db4924569a3c61aadfb721bbb009e3127196bd](https://arbiscan.io/address/0xe8db4924569a3c61aadfb721bbb009e3127196bd) | TransferAssetsAdapter                                         |
 | [https://arbiscan.io/address/0x92da9df390d3e9199d105289b297eca357ecc9b7](https://arbiscan.io/address/0x92da9df390d3e9199d105289b297eca357ecc9b7) | TheGraphDelegationPositionLib                                 |
 | [https://arbiscan.io/address/0xc2822eca13a7760141041a173c1b9b13e22515f6](https://arbiscan.io/address/0xc2822eca13a7760141041a173c1b9b13e22515f6) | TheGraphDelegationPositionParser                              |
+| [https://arbiscan.io/address/0x671ed11497e8fe5c98ed45e699639cf081ee0a5f](https://arbiscan.io/address/0x671ed11497e8fe5c98ed45e699639cf081ee0a5f) | ManualValueOracleFactory                                      |
+| [https://arbiscan.io/address/0xfc3b128597b3ef946194099d894eee1c7d9ac893](https://arbiscan.io/address/0xfc3b128597b3ef946194099d894eee1c7d9ac893) | ManualValueOracleLib                                          |
