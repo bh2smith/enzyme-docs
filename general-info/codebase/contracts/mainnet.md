@@ -147,5 +147,6 @@ description: Below are the protocol contracts for Enzyme v4 on Ethereum.
 | [https://etherscan.io/address/0xe0309Fa2412B811a0BD40A73297093707259217f](https://etherscan.io/address/0xe0309Fa2412B811a0BD40A73297093707259217f#code)                                                                       | TransferAssetsAdapter                                         |
 | [https://etherscan.io/address/0x0edbb060a8f00f5967eecfc87c8559fa65501a3d](https://etherscan.io/address/0x0edbb060a8f00f5967eecfc87c8559fa65501a3d)                                                                            | ManualValueOracleFactory                                      |
 | [https://etherscan.io/address/0x115Fd95EE33d0FeDD98fC41496E9639490E3d4a1](https://etherscan.io/address/0x115Fd95EE33d0FeDD98fC41496E9639490E3d4a1#code)                                                                       | ManualValueOracleLib                                          |
+| [https://etherscan.io/address/0x5e216f370e3555feb9a0575a57ada732a9e50386](https://etherscan.io/address/0x5e216f370e3555feb9a0575a57ada732a9e50386)                                                                            | DisallowedAdapterIncomingAssetsPolicy                         |
 
 \
